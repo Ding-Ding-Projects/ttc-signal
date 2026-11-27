@@ -1,0 +1,871 @@
+[
+  {
+    "name": "Mount Dennis",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/mount-dennis-station",
+    "events": [
+      {
+        "date": "2016",
+        "text": "Workers lifted the former Kodak building and moved it roughly 60 metres so they could excavate beneath its original site.",
+        "source": "https://www.metrolinx.com/en/discover/former-kodak-building-used-for-crosstown-mount-dennis-station"
+      },
+      {
+        "date": "2025-11-16",
+        "text": "Kitchener GO trains and UP Express began serving Mount Dennis. TTC buses also started using the station before the LRT opened.",
+        "source": "https://www.metrolinx.com/en/news/mount-dennis-station-opens-to-go-up-and-ttc-customers"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "Line 5 began at the western terminal, where the former Kodak building connects the LRT with Kitchener GO trains and UP Express.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Keelesdale",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/keelesdale-station",
+    "events": [
+      {
+        "date": "2016-03-10",
+        "text": "Construction of Keelesdale Station began with a groundbreaking ceremony.",
+        "source": "https://cdn.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2016/April-27-Joint/Reports/Item_6_Light_Rail_Transit_Update.pdf"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "East of Mount Dennis, the line opened beneath the meeting of Keele Street, Trethewey Drive and Eglinton Avenue West.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Caledonia",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/caledonia-station",
+    "events": [
+      {
+        "date": "2021",
+        "text": "Construction photographs documented the open interior, with views from the lower level up to the upper concourse.",
+        "source": "https://www.metrolinx.com/en/discover/caledonia-station-is-a-unique-open-design-on-crosstown-lrt-route"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The underground station brought LRT service to the west side of the Barrie rail corridor, between Blackthorn Avenue and Croham Road.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Fairbank",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/fairbank-station",
+    "events": [
+      {
+        "date": "2021",
+        "text": "By April the builders had finished laying rail beside the future passenger platforms.",
+        "source": "https://www.metrolinx.com/en/discover/rail-track-complete-at-crosstown-fairbank-station-platform-level"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The community gained an underground station at Dufferin Street. The entrance plaza incorporates St. Hilda’s Parkette.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Oakwood",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/oakwood-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "Metrolinx documented the window artwork at the main entrance. Ontario artist Nicholas Pye used colour and intersecting forms in the glass.",
+        "source": "https://www.metrolinx.com/en/discover/inside-eglinton-crosstown-s-oakwood-station"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The new station at Oakwood Avenue was the westernmost of the Crosstown’s three mined stations. Crews excavated a cavern beneath the roadway.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Cedarvale",
+    "lines": [
+      1,
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/cedarvale-station",
+    "events": [
+      {
+        "date": "2022",
+        "text": "Crews broke through the concrete separating two pedestrian tunnels to create the passage to the existing subway.",
+        "source": "https://www.metrolinx.com/en/discover/crosstown-lrt-connects-cedarvale-with-eglinton-west-ttc-station"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "Line 5 reached the University branch of Line 1 here, giving riders a second subway interchange along Eglinton besides the one at Yonge.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Forest Hill",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/forest-hill-station",
+    "events": [
+      {
+        "date": "2021",
+        "text": "Workers installed supports for the overhead electrical wires at platform level while construction continued above.",
+        "source": "https://www.metrolinx.com/en/discover/forest-hill-lrt-station-sees-important-work-at-platform-level"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The Crosstown opened an underground station at Bathurst Street. Its working name during planning had been Bathurst.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Chaplin",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/chaplin-station",
+    "events": [
+      {
+        "date": "2020",
+        "text": "Crews poured 300 cubic metres of concrete for the base of the northwest entrance in May.",
+        "source": "https://www.metrolinx.com/en/discover/massive-concrete-work-happening-at-chaplin-station"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "LRT service reached Chaplin Crescent, where the main entrance plaza meets Chaplin Parkette.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Avenue",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/avenue-station",
+    "events": [
+      {
+        "date": "2019",
+        "text": "Metrolinx documented the station cavern under construction 32 metres below the road.",
+        "source": "https://www.metrolinx.com/en/discover/avenue-station-room-enough-for-more-than-one-brachiosaurus"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The underground station at Avenue Road was designed with turnback tracks so trains could reverse direction.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Eglinton",
+    "lines": [
+      1,
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/eglinton-station",
+    "events": [
+      {
+        "date": "2021",
+        "text": "Crews completed excavation below the existing subway structure, underpinning Line 1 to make space for the lower LRT platforms.",
+        "source": "https://www.metrolinx.com/en/discover/crosstown%E2%80%99s-eglinton-station-excavation-under-ttc-box-complete"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The new east–west platforms connected Line 5 with the Yonge branch of Line 1.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Mount Pleasant",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/mount-pleasant-station",
+    "events": [
+      {
+        "date": "2022",
+        "text": "In July, crews completed the restoration of the former Imperial Bank façade at the station entrance. The original building had been dismantled for construction in 2016.",
+        "source": "https://www.metrolinx.com/en/discover/heritage-fa%C3%A7ade-restoration-complete-at-mount-pleasant-station"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The opening brought underground rail service to Mount Pleasant Road at Eglinton Avenue East, one stop east of the Yonge subway.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Leaside",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/leaside-station",
+    "events": [
+      {
+        "date": "2019",
+        "text": "The project incorporated extra structural supports at the southeast entrance so that future building work above it could leave the station accessible.",
+        "source": "https://www.metrolinx.com/en/discover/as-toronto-looks-to-growth,-leaside-station-holds-design-secrets"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The former Bayview project station opened as Leaside. Its entrance plaza faces Howard Talbot Park.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Laird",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/laird-station",
+    "events": [
+      {
+        "date": "2022",
+        "text": "The last train-control signal installed on the Crosstown went in at Laird.",
+        "source": "https://www.metrolinx.com/en/discover/final-eglinton-crosstown-lrt-signal-installed-at-laird-station"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "Laird Drive gained an underground station with special trackwork to reverse trains or hold a train clear of the running tracks.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Sunnybrook Park",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/sunnybrook-park-station",
+    "events": [
+      {
+        "date": "2020",
+        "text": "Builders were installing rails on track pads just east of Leslie Street, where the line emerges onto Eglinton.",
+        "source": "https://www.metrolinx.com/en/discover/glass-roof-installed-over-science-centre-station-entrance"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "Light rail reached Leslie Street at the surface, between the underground stations at Laird and Don Valley.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Don Valley",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/don-valley-station",
+    "events": [
+      {
+        "date": "2020",
+        "text": "While the station still carried the Science Centre working name, crews installed glazing over its main entrance.",
+        "source": "https://www.metrolinx.com/en/discover/glass-roof-installed-over-science-centre-station-entrance"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The station planned as Science Centre opened at Don Mills Road with a bus terminal and underground rail platforms.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Aga Khan Park & Museum",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/aga-khan-park-museum-station",
+    "events": [
+      {
+        "date": "2019",
+        "text": "Construction began in April with widening and paving Eglinton Avenue beside the future stop.",
+        "source": "https://www.metrolinx.com/en/discover/a-look-at-the-Aga-Khan-Park-and-Museum-Crosstown-stop"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The eastbound and westbound platforms opened on Eglinton, just west of the Don Valley Parkway southbound off-ramp.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Wynford",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/wynford-station",
+    "events": [
+      {
+        "date": "2022",
+        "text": "The Crosstown works extended to the sidewalks around Wynford Drive, where Metrolinx documented street improvements in March.",
+        "source": "https://www.metrolinx.com/en/discover/crosstown-lrt-connects-cedarvale-with-eglinton-west-ttc-station"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The surface stop brought LRT service to the west end of the Eglinton Avenue bridge over Wynford Drive.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Sloane",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/sloane-station",
+    "events": [
+      {
+        "date": "2019",
+        "text": "Workers widened Eglinton near Bermondsey Road to make room for a central rail corridor and bicycle lanes.",
+        "source": "https://www.metrolinx.com/en/discover/coming-up-to-a-take-a-breath-in-complex-crosstown-construction"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The surface stop opened at Bermondsey Road. The project had used Bermondsey as its working name.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "O'Connor",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/oconnor-station",
+    "events": [
+      {
+        "date": "2018",
+        "text": "Work on the train guideway began late in the year. The first concrete pour followed in early 2019, before the rails went in.",
+        "source": "https://www.metrolinx.com/en/discover/it%E2%80%99s-all-about-the-tracks-being-made-along-toronto%E2%80%99s-golden-mile"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The new surface stop served the stretch of Eglinton Avenue East between Victoria Park Avenue and Eglinton Square.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Pharmacy",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/pharmacy-station",
+    "events": [
+      {
+        "date": "2019",
+        "text": "By May the guideway was under construction at Pharmacy Avenue, with crews pouring concrete for the new rail alignment.",
+        "source": "https://www.metrolinx.com/en/discover/it%E2%80%99s-all-about-the-tracks-being-made-along-toronto%E2%80%99s-golden-mile"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The line began serving Pharmacy Avenue on the surface, between O’Connor and Hakimi Lebovic.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Hakimi Lebovic",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/hakimi-lebovic-station",
+    "events": [
+      {
+        "date": "2018",
+        "text": "Metrolinx honoured Karim Hakimi and Joseph Lebovic in May. The stop’s paired name reflects the change in street name across Eglinton.",
+        "source": "https://www.metrolinx.com/en/discover/behind-the-name-%E2%80%93-the-journey-to%20--get-to-%E2%80%98hakimi-lebovic-stop%E2%80%99"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The surface stop opened at Lebovic Avenue. During planning it was known simply as Lebovic.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Golden Mile",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/golden-mile-station",
+    "events": [
+      {
+        "date": "2017",
+        "text": "Construction at Warden began with utility relocations and removal of the roadway medians.",
+        "source": "https://www.metrolinx.com/en/discover/torontos-golden-mile-enters-new-era-with-crosstown-development"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "This surface stop opened at Warden Avenue, the street used as its working name during planning.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Birchmount",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/birchmount-station",
+    "events": [
+      {
+        "date": "2019",
+        "text": "Road widening and paving were already underway at Birchmount in May, ahead of guideway construction.",
+        "source": "https://www.metrolinx.com/en/discover/birchmount-and-ionview-crosstown-stops-pave-the-way"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "Light rail began serving the intersection of Birchmount Road and Eglinton Avenue East, between Golden Mile and Ionview.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Ionview",
+    "lines": [
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/ionview-station",
+    "events": [
+      {
+        "date": "2019",
+        "text": "Metrolinx published the proposed layout west of Ionview Road, with covered waiting areas and fare machines on the parallel platforms.",
+        "source": "https://www.metrolinx.com/en/discover/birchmount-and-ionview-crosstown-stops-pave-the-way"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The surface stop opened at Ionview Road, the final eastbound stop before Kennedy.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "lines": [
+      2,
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/kennedy-station",
+    "events": [
+      {
+        "date": "2018",
+        "text": "In March, crews built the underpass between the GO platforms during a 75-hour work window as part of the interchange project.",
+        "source": "https://www.metrolinx.com/en/discover/take-a-walk-through-tour-of-kennedy-station"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "Kennedy became the eastern terminus of Line 5. Passengers could transfer between the Crosstown and Line 2 here.",
+        "source": "https://www.metrolinx.com/en/projects-and-programs/eglinton-crosstown-lrt/what-were-building",
+        "dateSource": "https://www.toronto.ca/services-payments/streets-parking-transportation/transit-in-toronto/transit-expansion/eglinton-crosstown-and-proposed-extensions/"
+      }
+    ]
+  },
+  {
+    "name": "Humber College",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/humber-college-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "By February the station structure was complete. Crews turned to interior work after excavating as deep as 12 metres.",
+        "source": "https://www.metrolinx.com/en/discover/finch-west-lrt-s-humber-college-station-reaches-structural-completion"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The western terminus opened on Humber College Boulevard with a centre platform serving both directions.",
+        "source": "https://www.ttc.ca/subway-stations/humber-college-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Westmore",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/westmore-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "The April construction report recorded completed platform concrete and canopies in both directions at Westmore.",
+        "source": "https://assets.metrolinx.com/image/upload/Images/Metrolinx/FWLRT_CLC_Deck_-_April_2023.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The first stop east of Humber College opened at Westmore Drive, with the eastbound and westbound platforms alongside one another.",
+        "source": "https://www.ttc.ca/subway-stations/westmore-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Martin Grove",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/martin-grove-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "Crews finished pouring the platform concrete before the canopies arrived. By the July progress report the shelters were in place.",
+        "source": "https://assets.metrolinx.com/image/upload/v1689173350/Images/Metrolinx/FWLRT_CLC_Presentation_-_July_2023.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Finch West trains began calling at a shared centre platform at Martin Grove Road.",
+        "source": "https://www.ttc.ca/subway-stations/martin-grove-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Albion",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/albion-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "Work progressed at different rates on the two platforms. In July the westbound concrete pour was complete, with the eastbound pour still to come.",
+        "source": "https://assets.metrolinx.com/image/upload/v1689173350/Images/Metrolinx/FWLRT_CLC_Presentation_-_July_2023.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Line 6 began serving Albion Road with separate platforms on opposite sides of the intersection.",
+        "source": "https://www.ttc.ca/subway-stations/albion-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Stevenson",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/stevenson-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "The project’s July update recorded completed concrete pours and installed canopies at Stevenson.",
+        "source": "https://assets.metrolinx.com/image/upload/v1689173350/Images/Metrolinx/FWLRT_CLC_Presentation_-_July_2023.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The centre platform opened at the Albion Centre driveway on Finch Avenue West.",
+        "source": "https://www.ttc.ca/subway-stations/stevenson-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Mount Olive",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/mount-olive-station",
+    "events": [
+      {
+        "date": "2019-04-10",
+        "text": "Metrolinx recommended Mount Olive for the planned Kipling stop. Kipling already identified a different TTC station.",
+        "source": "https://assets.metrolinx.com/image/upload/v1663237688/Documents/Metrolinx/20190410_BoardMtg_LRT_Station_EN.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Service began at Kipling Avenue. The stop takes the nearby neighbourhood’s name.",
+        "source": "https://www.ttc.ca/subway-stations/mount-olive-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Rowntree Mills",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/rowntree-mills-station",
+    "events": [
+      {
+        "date": "2019-04-10",
+        "text": "Metrolinx recommended the park name after consultation on what to call the stop at Islington.",
+        "source": "https://assets.metrolinx.com/image/upload/v1663237688/Documents/Metrolinx/20190410_BoardMtg_LRT_Station_EN.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The stop opened at Islington Avenue under a name drawn from nearby Rowntree Mills Park.",
+        "source": "https://www.ttc.ca/subway-stations/rowntree-mills-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Pearldale",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/pearldale-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "The July construction update recorded the start of concrete work on the platform at Pearldale.",
+        "source": "https://assets.metrolinx.com/image/upload/v1689173350/Images/Metrolinx/FWLRT_CLC_Presentation_-_July_2023.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The new centre platform served the junction where Pearldale Avenue and Ardwick Boulevard meet Finch.",
+        "source": "https://www.ttc.ca/subway-stations/pearldale-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Duncanwoods",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/duncanwoods-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "By the July update, crews had installed shelters on both the eastbound and westbound platforms.",
+        "source": "https://assets.metrolinx.com/image/upload/v1689173350/Images/Metrolinx/FWLRT_CLC_Presentation_-_July_2023.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The LRT began serving Duncanwoods Drive and Ardwick Boulevard from parallel side platforms.",
+        "source": "https://www.ttc.ca/subway-stations/duncanwoods-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Milvan Rumike",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/milvan-rumike-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "By July the westbound platform concrete was complete. Crews were still working on the eastbound platform.",
+        "source": "https://assets.metrolinx.com/image/upload/v1689173350/Images/Metrolinx/FWLRT_CLC_Presentation_-_July_2023.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The split platforms opened where Milvan Drive and Rumike Road meet Finch. The name identifies both intersecting streets.",
+        "source": "https://www.ttc.ca/subway-stations/milvan-rumike-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Emery",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/emery-station",
+    "events": [
+      {
+        "date": "2019-04-10",
+        "text": "Metrolinx recommended Emery for the Weston Road stop after consulting on Emery and Emery Village.",
+        "source": "https://assets.metrolinx.com/image/upload/v1663237688/Documents/Metrolinx/20190410_BoardMtg_LRT_Station_EN.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Rail service reached Weston Road under the historic neighbourhood name Emery.",
+        "source": "https://www.ttc.ca/subway-stations/emery-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Signet Arrow",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/signet-arrow-station",
+    "events": [
+      {
+        "date": "2022",
+        "text": "Metrolinx documented delivery of a traction-power substation near the Finch and Signet junction to supply electricity to the trains.",
+        "source": "https://www.metrolinx.com/en/discover/traction-power-%E2%80%93-taming-27,000--volts-for-the-finch-west-lrt"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The split-platform stop opened at the junction of Finch Avenue West, Signet Drive and Arrow Road.",
+        "source": "https://www.ttc.ca/subway-stations/signet-arrow-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Norfinch Oakdale",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/norfinch-oakdale-station",
+    "events": [
+      {
+        "date": "2019",
+        "text": "Construction began on the rail yard and maintenance building nearby, on Finch between Norfinch Drive and York Gate Boulevard.",
+        "source": "https://www.metrolinx.com/en/discover/details-announced-for-toronto%E2%80%99s-finch-west-light-rail-project-"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The eastbound platform opened east of Norfinch Drive and the westbound platform to its west, where Oakdale Road meets Finch.",
+        "source": "https://www.ttc.ca/subway-stations/norfinch-oakdale-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Jane and Finch",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/jane-and-finch-station",
+    "events": [
+      {
+        "date": "2019-04-10",
+        "text": "Metrolinx recommended the full intersection name to distinguish the stop from both Jane Station and Finch Station.",
+        "source": "https://assets.metrolinx.com/image/upload/v1663237688/Documents/Metrolinx/20190410_BoardMtg_LRT_Station_EN.pdf"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The corner of Jane Street and Finch Avenue West gained its namesake Line 6 stop, with separate platforms on either side of Jane.",
+        "source": "https://www.ttc.ca/subway-stations/jane-and-finch-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Driftwood",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/driftwood-station",
+    "events": [
+      {
+        "date": "2022",
+        "text": "Driftwood received the line’s first eight passenger shelters. Electrical cabinets for lighting, fare equipment and the public-address system also went in.",
+        "source": "https://www.metrolinx.com/en/discover/canopy-and-cabinet-installation-begins-on-the-finch-west-lrt"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Street-level rail service began at Driftwood Avenue, between Jane and Finch and Tobermory.",
+        "source": "https://www.ttc.ca/subway-stations/driftwood-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Tobermory",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/tobermory-station",
+    "events": [
+      {
+        "date": "2023",
+        "text": "Metrolinx documented an underground stormwater storage system at Finch and Tobermory that catches excess water during heavy rainfall.",
+        "source": "https://www.metrolinx.com/en/discover/progress-update-on-the-finch-west-lrt-"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Line 6 opened split side platforms at Tobermory Drive, two stops west of Finch West.",
+        "source": "https://www.ttc.ca/subway-stations/tobermory-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Sentinel",
+    "lines": [
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/sentinel-station",
+    "events": [
+      {
+        "date": "2022",
+        "text": "Sentinel Road marked one end of the 1.8-kilometre test section used to run the light rail vehicles before passenger service.",
+        "source": "https://www.metrolinx.com/en/discover/finch-west-lrt-track-installation-and-vehicle-testing-updates"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The new platforms at Sentinel Road became the last eastbound surface stop before the Finch West terminus.",
+        "source": "https://www.ttc.ca/subway-stations/sentinel-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  },
+  {
+    "name": "Finch West",
+    "lines": [
+      1,
+      6
+    ],
+    "source": "https://www.ttc.ca/subway-stations/finch-west-station",
+    "events": [
+      {
+        "date": "2021",
+        "text": "Construction photographs from February showed crews excavating the LRT station site at the southeast corner of Keele and Finch.",
+        "source": "https://www.metrolinx.com/en/discover/finch-west-lrt-sees-excavation-work-done-at-finch-west-station"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The eastern terminus of Line 6 connected to the existing Line 1 station at Keele Street and Finch Avenue West.",
+        "source": "https://www.ttc.ca/subway-stations/finch-west-station",
+        "dateSource": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open"
+      }
+    ]
+  }
+]

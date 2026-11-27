@@ -1,0 +1,769 @@
+[
+  {
+    "name": "Vaughan Metropolitan Centre",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "2016",
+        "text": "Crews completed track installation for the extension. The province marked the milestone at its future northern terminus.",
+        "source": "https://coupler.ttc.ca/news/editorial/2017/oct/ttc-takes-over-pioneer-village-station"
+      },
+      {
+        "date": "2017-12-17",
+        "text": "Revenue trains reached Highway 7 at Millway Avenue, giving Vaughan’s planned downtown a subway terminus and a link to the Viva bus rapidway.",
+        "source": "https://transittoronto.ca/subway/5114.shtml"
+      },
+      {
+        "date": "2019-11-03",
+        "text": "SmartVMC Bus Terminal opened. An enclosed walkway linked York Region buses to the subway concourse and the Highway 7 rapidway.",
+        "source": "https://yrrtc.ca/scpbt-FAQ"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/vaughan-metropolitan-centre-station"
+  },
+  {
+    "name": "Highway 407",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "2017-12-17",
+        "text": "The subway opened west of Jane Street beside Highway 407. Its regional bus terminal gave GO bus riders a transfer to the subway before reaching downtown Toronto.",
+        "source": "https://transittoronto.ca/subway/5114.shtml"
+      },
+      {
+        "date": "2019-01-05",
+        "text": "GO bus routes serving York University’s Keele campus moved here. University-bound riders continued by subway to York University or Pioneer Village.",
+        "source": "https://www.yorku.ca/yfile/2018/11/06/go-transit-announces-changes-to-go-bus-services-on-keele-campus/"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/highway-407-station"
+  },
+  {
+    "name": "Pioneer Village",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "2017-10-23",
+        "text": "Contractors handed the station to the TTC for testing. The complex included twelve TTC bus bays on the Toronto side and five regional bays on the Vaughan side.",
+        "source": "https://coupler.ttc.ca/news/editorial/2017/oct/ttc-takes-over-pioneer-village-station"
+      },
+      {
+        "date": "2017-12-17",
+        "text": "Passengers first boarded beneath Steeles Avenue, the Toronto–Vaughan boundary. Entrances served bus terminals on opposite sides of the municipal line.",
+        "source": "https://transittoronto.ca/subway/5114.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/pioneer-village-station"
+  },
+  {
+    "name": "York University",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "2017-05-27",
+        "text": "Doors Open Toronto visitors toured the station months before the first passenger trains. The wing-shaped entrance was designed to direct daylight down into the concourse.",
+        "source": "https://transittoronto.ca/subway/stations/001-yonge-university-spadina-subway/york-university.shtml"
+      },
+      {
+        "date": "2017-12-17",
+        "text": "The station opened beneath the university commons. Its entrances face York Lanes and the Accolade East Building, placing the subway within walking distance of the lecture halls.",
+        "source": "https://transittoronto.ca/subway/5114.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/york-university"
+  },
+  {
+    "name": "Finch West",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "2017-12-17",
+        "text": "The extension brought subway service to Keele and Finch. A bus terminal and parking in the nearby hydro corridor connected the surrounding neighbourhoods.",
+        "source": "https://transittoronto.ca/subway/5114.shtml"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Line 6 began carrying passengers between Finch West and Humber College, making this station an interchange.",
+        "source": "https://www.ttc.ca/news/2025/December/Line-6-Finch-West-officially-opened-to-customers-December-7"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/finch-west-station"
+  },
+  {
+    "name": "Downsview Park",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "2017-12-17",
+        "text": "Passengers began using subway platforms beneath the Barrie GO rail corridor. Entrance pavilions on opposite sides of the railway were laid out for interchange with GO trains.",
+        "source": "https://transittoronto.ca/subway/5114.shtml"
+      },
+      {
+        "date": "2017-12-30",
+        "text": "Barrie line trains began stopping at the new GO station above the subway, opening the rail-to-rail transfer.",
+        "source": "https://assets.metrolinx.com/image/upload/v1670954483/Images/Metrolinx/cwiagccsjgrvb4irlqhq.pdf"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/downsview-park-station"
+  },
+  {
+    "name": "Sheppard West",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1996-03-31",
+        "text": "The one-stop extension beyond Wilson officially opened here under the name Downsview.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2017-05-07",
+        "text": "Downsview became Sheppard West ahead of the extension to Vaughan, distinguishing it from the new Downsview Park station.",
+        "source": "https://www.ttc.ca/news/2017/April/TTCs-Downsview-Station-becomes-Sheppard-West"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/sheppard-west-station"
+  },
+  {
+    "name": "Wilson",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1978-01-28",
+        "text": "Public rides began at the original Spadina line terminus. Its two-level bus terminal gathered suburban routes beside the new Wilson subway yard.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      },
+      {
+        "date": "1996",
+        "text": "The extension to Downsview moved several bus routes farther north and Wilson’s overflow bus terminal closed.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/wilson-station"
+  },
+  {
+    "name": "Yorkdale",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1978-01-28",
+        "text": "Trains began serving the shopping centre beneath an arched glass roof. Michael Hayden’s Arc en Ciel used moving bands of coloured neon to respond to arriving and departing trains.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      },
+      {
+        "date": "2017-02-01",
+        "text": "Subway commuter parking reopened beneath the east end of Yorkdale Shopping Centre, on three levels of the mall’s Parkade E.",
+        "source": "https://www.ttc.ca/subway-stations/yorkdale-station"
+      },
+      {
+        "date": "2021",
+        "text": "The TTC completed the station’s accessibility retrofit, giving riders a step-free route to the subway.",
+        "source": "https://pw.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2024/April-11/13_Easier_Access_Phase-III_Project_Status_Update_April_2024.pdf"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/yorkdale-station"
+  },
+  {
+    "name": "Lawrence West",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1978-01-28",
+        "text": "The new station put bus connections above the Allen Road rail corridor. The artwork Spacing … Aerial Highways marked the Lawrence Avenue entrance.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      },
+      {
+        "date": "2014-12-19",
+        "text": "The station elevator entered service, giving riders a step-free route to the subway platform.",
+        "source": "https://www.toronto.ca/legdocs/mmis/2015/di/bgrd/backgroundfile-79688.pdf"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/lawrence-west-station"
+  },
+  {
+    "name": "Glencairn",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1978-01-28",
+        "text": "The Spadina line opened through the Allen Road median. Rita Letendre’s coloured skylight, Joy, brought daylight into the concrete station.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      },
+      {
+        "date": "2020",
+        "text": "Rita Letendre reinterpreted Joy for the replacement skylight. Colour sits between layers of glass in the new design, protecting it from the leaks that damaged the original.",
+        "source": "https://www.ttc.ca/news/2020/September/TTC-celebrates-newly-installed-skylight-at-Glencairn-Station"
+      },
+      {
+        "date": "2024-10-01",
+        "text": "Elevators entered service at Glencairn, providing step-free subway access.",
+        "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/Glencairn"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/glencairn-station"
+  },
+  {
+    "name": "Cedarvale",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1978-01-28",
+        "text": "The station opened as Eglinton West where trains emerge from the ravine tunnel into the Allen Road median. Gerald Zeldin depicted a Toronto streetcar on the platform walls.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "The TTC renamed Eglinton West for the Cedarvale neighbourhood.",
+        "source": "https://www.ttc.ca/news/2025/December/Dundas-and-Eglinton-West-Stations-to-be-officially-renamed-as-of-December-7"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "The first Line 5 passenger service added an east–west light rail transfer.",
+        "source": "https://www.ttc.ca/wheel-trans/newsletter/Access---Spring-2026"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/cedarvale-station"
+  },
+  {
+    "name": "St Clair West",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1978-01-28",
+        "text": "Streetcars and buses met the new subway at an underground loop. Gordon Rayner’s enamel mural Tempo was installed on the mezzanine.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      },
+      {
+        "date": "2016",
+        "text": "Morning rush-hour trains that used to turn back here began running north to Glencairn before reversing direction.",
+        "source": "https://www.ttc.ca/news/2016/September/TTC-service-changes-starting-Sunday"
+      },
+      {
+        "date": "2017",
+        "text": "The TTC completed the station’s accessibility improvements, giving riders a step-free connection to Line 1.",
+        "source": "https://www.ttc.ca/news/2017/October/TTCs-Woodbine-and-St-Clair-West-stations-now-fully-accessible"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/st-clair-west-station"
+  },
+  {
+    "name": "Dupont",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1978-01-28",
+        "text": "Passengers entered through curved glass enclosures at Spadina Road. James Sutherland’s floral mosaics link the platforms visually to the mezzanine.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      },
+      {
+        "date": "2020",
+        "text": "New elevators made the underground station accessible to riders who had previously faced stairs or escalators.",
+        "source": "https://pw.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2024/April-11/13_Easier_Access_Phase-III_Project_Status_Update_April_2024.pdf"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/dupont-station"
+  },
+  {
+    "name": "Spadina",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "The Bloor-Danforth subway introduced passenger service at Spadina Avenue.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1978-01-28",
+        "text": "The new Spadina line platforms opened near Lowther Avenue. A moving walkway through a long passage connected them to the existing station.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      },
+      {
+        "date": "2004",
+        "text": "The TTC removed the moving walkway after maintenance problems. Riders continued to use the connecting passage on foot.",
+        "source": "https://transittoronto.ca/subway/5106.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/spadina-station"
+  },
+  {
+    "name": "St George",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1963-02-28",
+        "text": "University Avenue trains first terminated on the upper level. A second level had already been built for the future east–west subway.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      },
+      {
+        "date": "1966",
+        "text": "The lower platforms opened and some trains ran directly between the University and Bloor-Danforth lines during a six-month service trial.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/st-george-station"
+  },
+  {
+    "name": "Museum",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1963-02-28",
+        "text": "The University subway opened beside the Royal Ontario Museum. North of the station, the track layout allowed for a future junction with the east–west subway.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      },
+      {
+        "date": "2008-04-08",
+        "text": "The TTC unveiled columns modelled on objects in museum collections and a new treatment of the platform walls.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/museum-station"
+  },
+  {
+    "name": "Queen’s Park",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1963-02-28",
+        "text": "Trains began serving the Ontario legislature and hospital district. Engineers tunnelled this stretch to limit disturbance above ground.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      },
+      {
+        "date": "2015",
+        "text": "The MaRS Centre entrance opened, linking the station to the research complex at College Street and University Avenue.",
+        "source": "https://pw.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2019/May_8/Reports/6_2019-2023_TTC_Multiyear_Accessibility_Plan.pdf"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/queens-park-station"
+  },
+  {
+    "name": "St Patrick",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1963-02-28",
+        "text": "The station opened in the tunnelled section of the University subway. Its curved platform walls originally carried painted station names.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      },
+      {
+        "date": "2018",
+        "text": "A new entrance at 480 University Avenue brought sheltered stairs and elevator access to the station. It became the TTC’s 45th accessible subway station.",
+        "source": "https://www.ttc.ca/news/2018/December/St-Patrick-becomes-TTCs-45th-accessible-station"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/st-patrick-station"
+  },
+  {
+    "name": "Osgoode",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1963-02-28",
+        "text": "University subway service reached Queen Street West near Osgoode Hall. The station belonged to a group named for local landmarks and districts.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      },
+      {
+        "date": "2015",
+        "text": "Renovation exposed the original blue-on-yellow glass tiles behind later wall strips before new panels were installed.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/osgoode-station"
+  },
+  {
+    "name": "St Andrew",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1963-02-28",
+        "text": "The University extension opened its King Street West station, displaying the cross street beneath the station name.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      },
+      {
+        "date": "2009",
+        "text": "New platform cladding recalled the original grey and blue colour scheme and restored the TTC lettering.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/st-andrew-station"
+  },
+  {
+    "name": "Union",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "Toronto’s first subway ended here beneath Front Street. Inaugural trains arrived from Eglinton before the public began riding that afternoon.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "1963-02-28",
+        "text": "The University extension turned the terminus into a through station, allowing trains to continue north to St George.",
+        "source": "https://transittoronto.ca/subway/5103.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/union-station"
+  },
+  {
+    "name": "King",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "The subway opened below Yonge Street at King. Immediately south, trains rounded a sharp curve towards the platforms under Front Street at Union.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "1984",
+        "text": "The TTC removed the original track crossover north of the station during rehabilitation.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/king-station"
+  },
+  {
+    "name": "Queen",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "Builders left space under the Yonge platforms for a proposed Queen streetcar subway. Two passenger passages crossed beneath the tracks around that space.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "2023-05-01",
+        "text": "Traffic moved off Queen Street between Bay and Victoria so crews could build the Ontario Line station that will connect with the existing subway.",
+        "source": "https://www.metrolinx.com/en/discover/queen-street-diversion-starts-may-1-for-ontario-line-work"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/queen-station"
+  },
+  {
+    "name": "TMU",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "The station opened as Dundas. Shallow platforms had separate fare controls on each side and stairs directly to street level.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Dundas became TMU following a naming agreement with Toronto Metropolitan University.",
+        "source": "https://www.ttc.ca/news/2025/December/Dundas-and-Eglinton-West-Stations-to-be-officially-renamed-as-of-December-7"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/TMU-station"
+  },
+  {
+    "name": "College",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "The station opened with side platforms served by a shared mezzanine. A crossover just south of College let trains move between tracks.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "1985",
+        "text": "Charles Pachter’s Hockey Knights in Canada placed Toronto and Montréal players opposite one another on the platform walls, near Maple Leaf Gardens.",
+        "source": "https://cdn.ttc.ca/-/media/Project/TTC/TheCoupler/Documents/Annual-Reports/1985-Annual-Report.pdf"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/college-station"
+  },
+  {
+    "name": "Wellesley",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "Because the line ran east of Yonge Street, the TTC could put a bus terminal directly above the tracks. Passengers changed between buses and trains inside the paid area.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "2020",
+        "text": "Elevators made the station accessible. A new entrance on Dundonald Street also gave riders a second way in from the neighbourhood.",
+        "source": "https://en.wikipedia.org/wiki/Wellesley_station"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/wellesley-station"
+  },
+  {
+    "name": "Bloor-Yonge",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "The original station opened as Bloor. Stairs led from the subway to a sheltered streetcar transfer platform in the middle of Bloor Street.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "1966-02-26",
+        "text": "Bloor-Danforth trains replaced the streetcar transfer with a subway interchange at Yonge Street.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/bloor-yonge-station"
+  },
+  {
+    "name": "Rosedale",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "Passengers descended from the street-level entrance to two open-air platforms. The bus terminal sat alongside the railway cutting.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "2025",
+        "text": "In October, elevators entered service at the open-air station, connecting its platforms to the entrance on Crescent Road.",
+        "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/Rosedale-Station"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/rosedale-station"
+  },
+  {
+    "name": "Summerhill",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "The original Yonge subway served the neighbourhood beside the former North Toronto railway station. Its compact entrance served walk-in riders without a bus terminal.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "2025-12-31",
+        "text": "Elevators entered service, giving both subway platforms step-free access from the Shaftesbury Avenue entrance.",
+        "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/Summerhill-Station"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/summerhill-station"
+  },
+  {
+    "name": "St Clair",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "A mezzanine connected the subway to a surface terminal and a second entrance on Pleasant Boulevard. St Clair streetcars were reorganized to feed the new line.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "1986",
+        "text": "The TTC removed the Rosehill track crossover immediately south of the station. Its location near the Pleasant Boulevard portal had allowed trains to change tracks.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "2013",
+        "text": "A replacement crossover was in place by summer as part of preparations for automatic train control on Line 1.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/st-clair-station"
+  },
+  {
+    "name": "Davisville",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "Opening-day guests boarded the inaugural train here. The station had a third track to move trains into and out of the adjacent yard.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "1958",
+        "text": "The TTC opened its headquarters above the station’s bus terminal.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/davisville-station"
+  },
+  {
+    "name": "Eglinton",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "The first Yonge subway ended at the former Eglinton streetcar facility. A large bus terminal linked the new railway to neighbourhoods farther north.",
+        "source": "https://transittoronto.ca/subway/5102.shtml"
+      },
+      {
+        "date": "1973-03-31",
+        "text": "With the extension to York Mills carrying passengers, Eglinton became a through station.",
+        "source": "https://transittoronto.ca/subway/5105.shtml"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "Introductory service on Line 5 added an east–west light rail connection beneath Yonge and Eglinton.",
+        "source": "https://www.ttc.ca/wheel-trans/newsletter/Access---Spring-2026"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/eglinton-station"
+  },
+  {
+    "name": "Lawrence",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1973-03-31",
+        "text": "The York Mills extension brought passengers to Lawrence and Yonge. Buses entered an underground terminal and ran on the left to serve a central island.",
+        "source": "https://transittoronto.ca/subway/5105.shtml"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "Two elevators opened a step-free path from the street to the concourse, underground bus terminal and subway platform.",
+        "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/LawrenceStation"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/lawrence-station"
+  },
+  {
+    "name": "York Mills",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1973-03-31",
+        "text": "The subway reached Hogg’s Hollow, becoming a temporary northern terminus. Builders diverted the west branch of the Don River during excavation.",
+        "source": "https://transittoronto.ca/subway/5105.shtml"
+      },
+      {
+        "date": "1992",
+        "text": "By the end of the York Mills Centre development, local buses had moved below ground and regional GO buses had a terminal at street level.",
+        "source": "https://infrastructureinstitute.ca/case-york-mills-centre/"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/york-mills-station"
+  },
+  {
+    "name": "Sheppard-Yonge",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1974-03-30",
+        "text": "The station opened as Sheppard when the Yonge subway extended north from York Mills to Finch.",
+        "source": "https://transittoronto.ca/subway/5105.shtml"
+      },
+      {
+        "date": "2002",
+        "text": "The station acquired the name Sheppard-Yonge and stairs linking the original Yonge platform to the new Sheppard platforms.",
+        "source": "https://transittoronto.ca/subway/5105.shtml"
+      },
+      {
+        "date": "2002-11-24",
+        "text": "Regular Sheppard subway service began between this interchange and Don Mills.",
+        "source": "https://www.toronto.ca/explore-enjoy/history-art-culture/online-exhibits/web-exhibits/web-exhibits-transportation/the-ttc-100-years-of-moving-toronto/sheppard-subway/"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/sheppard-yonge-station"
+  },
+  {
+    "name": "North York Centre",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1985",
+        "text": "Construction began in June at the site then known as Park Home. Crews built around the existing tunnel while Yonge trains continued running.",
+        "source": "https://www.toronto.ca/explore-enjoy/history-art-culture/online-exhibits/web-exhibits/web-exhibits-transportation/the-ttc-100-years-of-moving-toronto/yonge-subway-north-extension/"
+      },
+      {
+        "date": "1987-06-18",
+        "text": "The TTC officially opened an infill station between Sheppard and Finch, providing a subway entrance in North York’s civic centre district.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/north-york-centre-station"
+  },
+  {
+    "name": "Finch",
+    "lines": [
+      1
+    ],
+    "events": [
+      {
+        "date": "1974-03-30",
+        "text": "Finch became the northern Yonge terminus on the original subway’s twentieth anniversary. Land in the hydro corridor helped make room for commuter parking.",
+        "source": "https://transittoronto.ca/subway/5105.shtml"
+      },
+      {
+        "date": "1977",
+        "text": "Rio Algom donated Krystyna Sadowska’s metal sculpture Rhythm of Exotic Plants to the TTC. Riders encounter the artwork on the station mezzanine.",
+        "source": "https://transittoronto.ca/subway/stations/001-yonge-university-spadina-subway/finch.shtml"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/finch-station"
+  }
+]

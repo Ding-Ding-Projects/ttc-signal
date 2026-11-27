@@ -1,0 +1,193 @@
+[
+  {
+    "name": "Kennedy (former Line 3 platforms)",
+    "lines": [
+      3
+    ],
+    "status": "Former",
+    "events": [
+      {
+        "date": "1985-03-22",
+        "text": "The Scarborough RT officially opened, giving Kennedy a rail transfer to Scarborough Centre and McCowan.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-07-24",
+        "text": "The last Line 3 trains ran on this date. A derailment near Ellesmere interrupted service.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-08-24",
+        "text": "The TTC confirmed the end of Line 3 train service. The closure applied to the Line 3 platforms at Kennedy. Subway and bus service continued.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2026-02-08",
+        "text": "Kennedy gained a Line 5 interchange with Line 2 at the operating station.",
+        "source": "https://www.ttc.ca/wheel-trans/newsletter/Access---Spring-2026"
+      }
+    ],
+    "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/Future-of-Line-3-Scarborough"
+  },
+  {
+    "name": "Lawrence East",
+    "lines": [
+      3
+    ],
+    "status": "Former",
+    "events": [
+      {
+        "date": "1985-03-22",
+        "text": "Lawrence East was one of the six stations on the Scarborough RT at its official opening.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-07-24",
+        "text": "The last Line 3 trains ran on this date. A derailment near Ellesmere interrupted service.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-08-24",
+        "text": "The TTC confirmed permanent closure of Line 3. Lawrence East was one of four stations that closed permanently.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "The Scarborough Busway opened along the former rail corridor with a bus stop at Lawrence East.",
+        "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/Future-of-Line-3-Scarborough"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/lawrence-east-station"
+  },
+  {
+    "name": "Ellesmere",
+    "lines": [
+      3
+    ],
+    "status": "Former",
+    "events": [
+      {
+        "date": "1985-03-22",
+        "text": "Ellesmere was one of the six stations on the Scarborough RT at its official opening.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-07-24",
+        "text": "The last Line 3 trains ran on this date. A derailment near Ellesmere interrupted service.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-08-24",
+        "text": "The TTC confirmed permanent closure of Line 3. Ellesmere was one of four stations that closed permanently.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "The Scarborough Busway opened along the former rail corridor with a bus stop at Ellesmere.",
+        "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/Future-of-Line-3-Scarborough"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/ellesmere-station"
+  },
+  {
+    "name": "Midland",
+    "lines": [
+      3
+    ],
+    "status": "Former",
+    "events": [
+      {
+        "date": "1985-03-22",
+        "text": "Midland was one of the six stations on the Scarborough RT at its official opening.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-07-24",
+        "text": "The last Line 3 trains ran on this date. A derailment near Ellesmere interrupted service.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-08-24",
+        "text": "The TTC confirmed permanent closure of Line 3. Midland was one of four stations that closed permanently.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/midland-station"
+  },
+  {
+    "name": "Scarborough Centre (former rail platforms)",
+    "lines": [
+      3
+    ],
+    "status": "Former",
+    "events": [
+      {
+        "date": "1985-03-22",
+        "text": "The official opening ceremony for the Scarborough RT took place at Scarborough Centre.",
+        "source": "https://barp.ca/builders/rapidtransit/TTC-SRT-Data-June1985-web-20170707.pdf"
+      },
+      {
+        "date": "2023-07-24",
+        "text": "The last Line 3 trains ran on this date. A derailment near Ellesmere interrupted service.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-08-24",
+        "text": "The TTC confirmed permanent closure of the rail line. Scarborough Centre continued serving riders as a bus terminal.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      }
+    ],
+    "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/Future-of-Line-3-Scarborough"
+  },
+  {
+    "name": "McCowan",
+    "lines": [
+      3
+    ],
+    "status": "Former",
+    "events": [
+      {
+        "date": "1985-03-22",
+        "text": "McCowan was the eastern terminus when the Scarborough RT officially opened.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-07-24",
+        "text": "The last Line 3 trains ran on this date. A derailment near Ellesmere interrupted service.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "2023-08-24",
+        "text": "The TTC confirmed permanent closure of Line 3. McCowan was one of four stations that closed permanently.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      }
+    ],
+    "source": "https://www.ttc.ca/subway-stations/mccowan-station"
+  },
+  {
+    "name": "Bay Lower (Lower Bay)",
+    "lines": [
+      1,
+      2
+    ],
+    "status": "Former",
+    "events": [
+      {
+        "date": "1966",
+        "text": "In February, the lower level of Bay opened for passenger trains linking the Bloor–Danforth subway to the University line.",
+        "source": "https://www.ttc.ca/news/2013/May/Public-invited-to-TTCs-Bay-Lower-Station-during-Doors-Open-Toronto"
+      },
+      {
+        "date": "1966",
+        "text": "After six months, regular service ended on the lower level. The TTC later used it for training and filming. The upper Bay station remained in passenger service.",
+        "source": "https://www.ttc.ca/news/2013/May/Public-invited-to-TTCs-Bay-Lower-Station-during-Doors-Open-Toronto"
+      },
+      {
+        "date": "2013-05-25",
+        "text": "The TTC invited visitors to tour the lower level during Doors Open Toronto.",
+        "source": "https://www.ttc.ca/news/2013/May/Public-invited-to-TTCs-Bay-Lower-Station-during-Doors-Open-Toronto"
+      }
+    ],
+    "source": "https://www.ttc.ca/TheInterchange/2026/September/Bay-Lower-Station-The-Star-of-the-Show"
+  }
+]

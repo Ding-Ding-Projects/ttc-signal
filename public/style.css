@@ -667,3 +667,5 @@ summary {
 .search-options select {
   font-size: 12px;
 }
+
+.atlas-entry{color:#e3efdb;font-size:13px;text-decoration:none;border-bottom:1px solid #81977c}.atlas-entry:hover{color:#cdff67}

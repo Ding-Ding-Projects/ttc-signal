@@ -27,3 +27,9 @@ Use the journey planner for direct trips and same-stop connections. The feed exp
 The Windows x64 executable in Releases opens the dashboard in your browser and serves the included map, timetable and rider guide from a loopback address. Keep its console window open while using it. The bundled timetable has the service dates of the release. Live predictions still require an internet connection. Saved items persist on the usual port, 38471. When that port is busy, the launcher chooses a temporary port with separate browser storage.
 
 Build it from the repository root with `GOOS=windows GOARCH=amd64 go build -trimpath -o SignalToronto.exe portable.go`. A native build with `go build -o signal-toronto portable.go` uses the same embedded files.
+
+## Station atlas
+
+[Browse current and former stations](https://ding-ding-projects.github.io/ttc-signal/stations/). Every location has a static page with cited history. Operating stations include links to adjacent stations and platform departures. The catalogue follows the five operating rapid-transit lines, including surface light-rail stops; interchanges share one history. Former station and platform records are labeled separately.
+
+Historical research and image credits are stored in `scripts/station-data/`. After updating the records or the schedule, run `python3 scripts/build_station_atlas.py`. The builder reconciles the records with complete scheduled trips and reports missing stations or transfer lines. Generate the phone-size PDF with `python3 scripts/build_station_pdf.py` (requires ReportLab).

@@ -1,0 +1,811 @@
+[
+  {
+    "name": "Kipling",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/kipling-station",
+    "events": [
+      {
+        "date": "1980-11-21",
+        "text": "The TTC formally opened the one-stop extension from Islington to Kipling.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "1980-11-22",
+        "text": "Public subway service began at the new western terminus.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2011",
+        "text": "An automatic entrance opened at the Auckland Road end of the station.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/kipling.shtml"
+      },
+      {
+        "date": "2021-01-04",
+        "text": "MiWay shifted its remaining Islington services to the new regional terminal at Kipling.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/kipling.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Islington",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/islington-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "Islington became the western terminus when the subway extended beyond Keele.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1980-11-22",
+        "text": "Kipling took over as the western terminus. Islington became a through station.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1996",
+        "text": "Renovations reorganized the fare barriers and moved the collector booths to simplify transfers to the buses.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Royal York",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/royal-york-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "Trains first called at Royal York on the western extension to Islington. Riders originally paid the subway fare on the mezzanine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2019-05-24",
+        "text": "The bus terminal reopened after reconstruction.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/royal-york.shtml"
+      },
+      {
+        "date": "2019-12-16",
+        "text": "The station’s new elevators entered service.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/royal-york.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Old Mill",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/old-mill-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "Passenger service opened at the Humber River crossing, where the subway runs from a bridge directly into the station.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2014",
+        "text": "Two aluminum artworks bearing the station name marked the centenary of the nearby Old Mill.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/old-mill.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Jane",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/jane-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "Subway trains reached Jane, where buses from two different fare zones originally met.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2006-06-22",
+        "text": "New elevators connected the station levels, making the subway platforms accessible.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/jane.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Runnymede",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/runnymede-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "The westward extension brought subway trains under Bloor Street to Runnymede Road.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2020",
+        "text": "The TTC put elevators into service at Runnymede.",
+        "source": "https://www.ttc.ca/en/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2020"
+      }
+    ]
+  },
+  {
+    "name": "High Park",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/high-park-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "High Park joined the subway as the line extended west of Keele toward Islington.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2025",
+        "text": "The accessibility project at the Quebec Avenue entrance was completed in March, bringing elevator access to the platforms.",
+        "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/High-Park"
+      }
+    ]
+  },
+  {
+    "name": "Keele",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/keele-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Keele opened as the western terminus. A moving ramp took riders from the temporary streetcar connection up to the elevated train platform.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1968-05-11",
+        "text": "The extension to Islington ended Keele’s role as a terminus and the connecting Bloor streetcar shuttle stopped running.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Dundas West",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/dundas-west-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "The original Bloor–Danforth line opened at Dundas West. Early plans had named the station Vincent.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2002",
+        "text": "The TTC closed the surface terminal on Labour Day to rebuild its streetcar loop.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/dundas-west.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Lansdowne",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/lansdowne-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Lansdowne opened with the Keele–Woodbine line. It was among the original stations built with a second, token-operated entrance.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2022",
+        "text": "Three elevators entered service at Lansdowne.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2022"
+      }
+    ]
+  },
+  {
+    "name": "Dufferin",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/dufferin-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Dufferin on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2009",
+        "text": "The public art design for Dufferin used photographs of the station and its neighbourhood as the basis for large, pixelated images.",
+        "source": "https://cdn.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2009/July-9/Other/Dufferin_Station_Mod.pdf"
+      },
+      {
+        "date": "2013-08-28",
+        "text": "A new exit on Russett Avenue opened to passengers.",
+        "source": "https://www.toronto.ca/wp-content/uploads/2017/12/9566-TTC-2014-Public-Book-Capital-Analyst-Notes.pdf"
+      },
+      {
+        "date": "2014-11-24",
+        "text": "Three elevators entered service as part of the station modernization.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/operating-statistics-2014/easier-access"
+      }
+    ]
+  },
+  {
+    "name": "Ossington",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/ossington-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Ossington on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2016",
+        "text": "Two elevators entered service in December, making Ossington the TTC’s 35th accessible station.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/operating-statistics-2016/2016-at-a-glance"
+      },
+      {
+        "date": "2016",
+        "text": "Scott Eunson’s Ossington Particles brought clusters of polished Corian shapes to the station walls.",
+        "source": "https://www.scotteunson.ca/work/ossington-subway-station"
+      }
+    ]
+  },
+  {
+    "name": "Christie",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/christie-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Christie on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1976-10-15",
+        "text": "A train fire forced an evacuation and damaged the station. Service between Ossington and St. George was suspended while crews made repairs.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/christie.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Bathurst",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/bathurst-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Bathurst on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2007",
+        "text": "The parkette by the station’s loop was renamed for Ed and Anne Mirvish.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/bathurst.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Spadina",
+    "lines": [
+      1,
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/spadina-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Bloor–Danforth trains began serving Spadina, twelve years before the north–south subway reached the station.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1978-01-28",
+        "text": "The north–south platforms opened. A pedestrian tunnel linked the new Spadina subway with the existing Bloor–Danforth station.",
+        "source": "https://transittoronto.ca/subway/stations/001-yonge-university-spadina-subway/spadina.shtml"
+      },
+      {
+        "date": "1997-07-27",
+        "text": "Streetcar service returned to Spadina Avenue with a new underground loop at the station.",
+        "source": "https://transittoronto.ca/subway/stations/001-yonge-university-spadina-subway/spadina.shtml"
+      }
+    ]
+  },
+  {
+    "name": "St. George",
+    "lines": [
+      1,
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/st-george-station",
+    "events": [
+      {
+        "date": "1963-02-28",
+        "text": "St. George opened as the northern terminus of the University subway.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "1966-02-26",
+        "text": "The lower-level Bloor–Danforth platforms opened below the University subway.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Bay",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/bay-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Bay opened with two platform levels so some trains could continue downtown on the University subway.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1966",
+        "text": "Regular passenger service on the lower platform ended after the TTC stopped running trains directly between the Bloor–Danforth and University lines.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1974",
+        "text": "A new underground connection linked the mezzanine to Cumberland Terrace.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/bay.shtml"
+      },
+      {
+        "date": "2020",
+        "text": "The TTC put station elevators into service.",
+        "source": "https://www.ttc.ca/en/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2020"
+      }
+    ]
+  },
+  {
+    "name": "Bloor-Yonge",
+    "lines": [
+      1,
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/bloor-yonge-station",
+    "events": [
+      {
+        "date": "1954-03-30",
+        "text": "Bloor station opened on the original Yonge subway. Passengers could transfer to the Bloor streetcar.",
+        "source": "https://transittoronto.ca/subway/stations/001-yonge-university-spadina-subway/bloor-yonge.shtml"
+      },
+      {
+        "date": "1966-02-26",
+        "text": "The new east–west platforms opened below the original Yonge subway, creating a transfer between the two lines.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Sherbourne",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/sherbourne-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Sherbourne on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2016-05-31",
+        "text": "Presto fare gates entered operation at Sherbourne.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/sherbourne.shtml"
+      },
+      {
+        "date": "2021",
+        "text": "Elevators opened between the mezzanine and the platforms, with a connection through to street level.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/sherbourne.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Castle Frank",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/castle-frank-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "The Bloor–Danforth line entered service at Castle Frank beside the subway’s separate crossing of the Rosedale ravine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2012",
+        "text": "A second exit opened in December at the west side of the bus terminal.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/castle-frank.shtml"
+      },
+      {
+        "date": "2024",
+        "text": "Two elevators entered service at Castle Frank.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2024"
+      }
+    ]
+  },
+  {
+    "name": "Broadview",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/broadview-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Broadview on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2006-03-21",
+        "text": "The TTC officially recognized Broadview as an accessible station.",
+        "source": "https://coupler.ttc.ca/about-the-coupler/year-in-review/year-in-review-2006"
+      }
+    ]
+  },
+  {
+    "name": "Chester",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/chester-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Chester on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2015-05-08",
+        "text": "Artist Jess Dobkin opened an artists’ newsstand in the station’s former retail kiosk.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/chester.shtml"
+      },
+      {
+        "date": "2021-04-23",
+        "text": "A second street entrance opened to passengers.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/chester.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Pape",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/pape-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Pape on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2013-10-31",
+        "text": "Two new elevators began carrying passengers.",
+        "source": "https://coupler.ttc.ca/news/editorial/2013/nov/pape-providing-customers-a-lift"
+      },
+      {
+        "date": "2013-12-24",
+        "text": "The TTC opened the second exit to the public.",
+        "source": "https://cdn.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2014/February-24/Reports/CEO_REPORT-FEB_2014.pdf?hash=F413ABF51246706B92EB0833243E51F2&rev=545c2fe773334dd2952391d21bbf8d31"
+      }
+    ]
+  },
+  {
+    "name": "Donlands",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/donlands-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Donlands on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2024-08-08",
+        "text": "A second station entrance opened at 17/19 Dewhurst Boulevard.",
+        "source": "https://www.ttc.ca/about-the-ttc/projects-and-plans/donlands-station"
+      },
+      {
+        "date": "2024",
+        "text": "Two elevators went into service at Donlands.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2024"
+      }
+    ]
+  },
+  {
+    "name": "Greenwood",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/greenwood-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Greenwood opened near the junction where trains could leave the main line for the TTC’s new subway yard.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1993",
+        "text": "The TTC brought the bus terminal inside the station’s fare-paid area.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/greenwood.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Coxwell",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/coxwell-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Passenger trains began serving Coxwell on the original Bloor–Danforth subway between Keele and Woodbine.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2017-12-31",
+        "text": "The new elevators at Coxwell entered service.",
+        "source": "https://cdn.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2018/February-15/1ChiefExecutiveOfficersReportFebruary2018Update.pdf?hash=A534CFEC00D38D78ACBD30DDE6D0A810&rev=d7479e54881c40e6ad67ca92ad43d4d9"
+      }
+    ]
+  },
+  {
+    "name": "Woodbine",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/woodbine-station",
+    "events": [
+      {
+        "date": "1966-02-26",
+        "text": "Woodbine opened as the eastern terminus. Riders continued east on a Danforth streetcar shuttle.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1968-05-11",
+        "text": "Trains began continuing east to Warden. The temporary streetcar shuttle from Woodbine to Luttrell Loop ended.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Main Street",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/main-street-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "Main Street opened on the extension to Warden. Its original bus terminal handled traffic from both TTC fare zones.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2004-11-23",
+        "text": "Elevators entered service at the station.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/main-street.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Victoria Park",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/victoria-park-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "The extension to Warden opened with elevated platforms at Victoria Park and a bus terminal below.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "2010",
+        "text": "A rebuilt bus terminal opened in May, replacing the original bays beneath the elevated subway.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/victoria-park.shtml"
+      },
+      {
+        "date": "2013",
+        "text": "The Federation of Canadian Municipalities recognized the station’s green-roof project with a sustainability award.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/victoria-park.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Warden",
+    "lines": [
+      2
+    ],
+    "source": "https://www.ttc.ca/subway-stations/warden-station",
+    "events": [
+      {
+        "date": "1968-05-11",
+        "text": "Scarborough bus passengers gained a subway connection at the new eastern terminus.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1980-11-22",
+        "text": "The extension to Kennedy brought through service to Warden and ended its twelve years as the line’s eastern terminus.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "lines": [
+      2,
+      5
+    ],
+    "source": "https://www.ttc.ca/subway-stations/kennedy-station",
+    "events": [
+      {
+        "date": "1980-11-21",
+        "text": "The TTC formally opened the one-stop extension from Warden to Kennedy.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      },
+      {
+        "date": "1980-11-22",
+        "text": "Public subway service began at the new eastern terminus.",
+        "source": "https://transittoronto.ca/subway/5104.shtml"
+      },
+      {
+        "date": "1985-03-24",
+        "text": "Regular Scarborough RT service began above the bus terminal, creating a transfer from the subway.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/kennedy.shtml"
+      },
+      {
+        "date": "2005-06-02",
+        "text": "Kennedy GO opened beside the TTC station, adding a rail connection to the Stouffville corridor.",
+        "source": "https://transittoronto.ca/subway/stations/002-bloor-danforth-subway/kennedy.shtml"
+      },
+      {
+        "date": "2023-07-24",
+        "text": "The last Line 3 trains served Kennedy. The TTC confirmed the line’s permanent closure the following month.",
+        "source": "https://www.ttc.ca/transparency-and-accountability/Operating-Statistics/Operating-Statistics---2025/Official-Opening-Dates"
+      }
+    ]
+  },
+  {
+    "name": "Sheppard-Yonge",
+    "lines": [
+      1,
+      4
+    ],
+    "source": "https://www.ttc.ca/subway-stations/sheppard-yonge-station",
+    "events": [
+      {
+        "date": "1974-03-30",
+        "text": "Regular Yonge subway service began at the station, then called Sheppard, on the extension to Finch.",
+        "source": "https://transittoronto.ca/subway/stations/001-yonge-university-spadina-subway/sheppard-yonge.shtml"
+      },
+      {
+        "date": "2002-11-22",
+        "text": "The TTC formally opened the Sheppard subway and invited visitors to try the trains during an open house.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002-11-24",
+        "text": "Regular Line 4 service began here, giving Yonge riders an eastbound connection to Don Mills.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      }
+    ]
+  },
+  {
+    "name": "Bayview",
+    "lines": [
+      4
+    ],
+    "source": "https://www.ttc.ca/subway-stations/bayview-station",
+    "events": [
+      {
+        "date": "2002-11-22",
+        "text": "The TTC formally opened the Sheppard subway and invited visitors to try the trains during an open house.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002-11-24",
+        "text": "Regular subway service reached the Bayview and Sheppard intersection.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002",
+        "text": "Artwork on the floors and walls used perspective to make flat images appear three-dimensional.",
+        "source": "https://transittoronto.ca/subway/5110.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Bessarion",
+    "lines": [
+      4
+    ],
+    "source": "https://www.ttc.ca/subway-stations/bessarion-station",
+    "events": [
+      {
+        "date": "2002-11-22",
+        "text": "The TTC formally opened the Sheppard subway and invited visitors to try the trains during an open house.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002-11-24",
+        "text": "Scheduled trains began serving the neighbourhood around Bessarion Road and Burbank Drive.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002",
+        "text": "A photographic frieze used images of local people’s hands, heads and feet in the new station.",
+        "source": "https://transittoronto.ca/subway/5110.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Leslie",
+    "lines": [
+      4
+    ],
+    "source": "https://www.ttc.ca/subway-stations/leslie-station",
+    "events": [
+      {
+        "date": "2002-11-22",
+        "text": "The TTC formally opened the Sheppard subway and invited visitors to try the trains during an open house.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002-11-24",
+        "text": "Regular service began at Leslie, just west of the subway crossing of the East Don River.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002",
+        "text": "Micah Lexier incorporated handwritten versions of “Sheppard” and “Leslie” from members of the community into roughly 17,000 tiles.",
+        "source": "https://transittoronto.ca/subway/5110.shtml"
+      }
+    ]
+  },
+  {
+    "name": "Don Mills",
+    "lines": [
+      4
+    ],
+    "source": "https://www.ttc.ca/subway-stations/don-mills-station",
+    "events": [
+      {
+        "date": "2002-11-22",
+        "text": "The TTC formally opened the Sheppard subway and invited visitors to try the trains during an open house.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002-11-24",
+        "text": "Regular four-car trains began serving the new eastern terminus beside Fairview Mall.",
+        "source": "https://coupler.ttc.ca/news/back-track/back-track/20-years-ago-in-2002"
+      },
+      {
+        "date": "2002",
+        "text": "The eastern terminus was designed around a central subway platform and an underground bus terminal beside Fairview Mall.",
+        "source": "https://transittoronto.ca/subway/5110.shtml"
+      }
+    ]
+  }
+]

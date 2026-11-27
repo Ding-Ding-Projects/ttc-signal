@@ -212,6 +212,11 @@ function routeDetails(id) {
       }),
     ),
   );
+  if (["1","2","4","5","6"].includes(id)) {
+    const atlasLink = el("a", "tool", "Explore station histories");
+    atlasLink.href = "./stations/?line=" + id;
+    box.querySelector(".filters").append(atlasLink);
+  }
   const group = net.stops.filter((s) => s.routes.includes(id));
   box.append(
     el("h3", "", "Stops on this route"),
@@ -235,6 +240,22 @@ function routeRow(r) {
   return row(badge(r.route_short_name), r.route_long_name, mode(r), () =>
     routeDetails(r.route_short_name),
   );
+}
+let platformAtlas;
+async function addStationHistory(stop, holder) {
+  if (!stop.routes.some(id => ["1", "2", "4", "5", "6"].includes(id))) return;
+  try {
+    platformAtlas ??= fetch("./stations/platforms.json").then(response => {
+      if (!response.ok) throw Error("Station index unavailable");
+      return response.json();
+    });
+    const path = (await platformAtlas)[stop.stop_id];
+    if (path && holder.isConnected) {
+      const anchor = el("a", "tool", "Station history");
+      anchor.href = "./stations/" + path + "/";
+      holder.append(anchor);
+    }
+  } catch { platformAtlas = null; }
 }
 function stopDetails(s) {
   if (typeof s === "string") s = stops.get(s);
@@ -265,6 +286,7 @@ function stopDetails(s) {
           : "Boarding accessibility unspecified",
     ),
   );
+  addStationHistory(s, box.querySelector(".filters"));
   const pred = el("div", "muted", "Requesting arrival predictions…"),
     sched = el("div", "muted"),
     d = field("Service date", "date");

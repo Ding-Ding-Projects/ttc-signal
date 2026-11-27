@@ -1,0 +1,874 @@
+{
+  "Aga Khan Park & Museum": {
+    "file": "aga-khan-park-museum.webp",
+    "credit": "Jortsmaster5000",
+    "source": "https://commons.wikimedia.org/wiki/File:Aga_Khan_Park_%26_Museum_Station_2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Photo of Aga Khan Park & Museum Station largely complete as of January, 2024."
+  },
+  "Avenue": {
+    "file": "avenue.webp",
+    "credit": "42-BRT",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenue_station_on_TTC_Line_5,_interior,_underground_platform_on_opening_day.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform of the underground Avenue station on TTC's Line 5 Eglinton, the morning of its opening, February 8, 2026."
+  },
+  "Bathurst": {
+    "file": "bathurst.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Bathurst_Station_Platform,_November_21_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Eastbound platform at Bathurst Station"
+  },
+  "Bay": {
+    "file": "bay.webp",
+    "credit": "Aquahelper",
+    "source": "https://commons.wikimedia.org/wiki/File:Bay_(TTC)_Eastbound_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "The eastbound subway platform at Bay."
+  },
+  "Bay Lower (Lower Bay)": {
+    "file": "lower-bay.webp",
+    "credit": "Abebenjoe",
+    "source": "https://commons.wikimedia.org/wiki/File:Lower_Bay_Station_west-end_of_platform-westview.jpg",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "caption": "Toronto Transit Commissions Bay Lower Station, during Doors Open Toronto Festival. This view is looking westward at the west end of the platform."
+  },
+  "Bayview": {
+    "file": "bayview.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Bayview_TTC_Subway_station,_April_8_2026_(02).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Bayview station for eastbound to Don Mills"
+  },
+  "Bessarion": {
+    "file": "bessarion.webp",
+    "credit": "Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Bessarion_Station_Platform,_November_2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Bessarion Station Platform, November 2021"
+  },
+  "Birchmount": {
+    "file": "birchmount.webp",
+    "credit": "The Wikipeadian guy",
+    "source": "https://commons.wikimedia.org/wiki/File:Birchmount_Stop.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Birchmount Stop"
+  },
+  "Bloor-Yonge": {
+    "file": "bloor-yonge.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Line_1_Platforms_at_Bloor-Yonge_Station,_February_13_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Line 1 platform at Bloor-Yonge station for northbound to Finch"
+  },
+  "Broadview": {
+    "file": "broadview.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Broadview_TTC_Subway_station,_January_5_2025_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Broadview station for Westbound to Kipling"
+  },
+  "Caledonia": {
+    "file": "caledonia.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Caledonia_Station_Platform,_February_13_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Caledonia station"
+  },
+  "Castle Frank": {
+    "file": "castle-frank.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Platform_at_Castle_Frank_Station,_June_20_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Castle Frank station for eastbound to Kennedy"
+  },
+  "Cedarvale": {
+    "file": "cedarvale.webp",
+    "credit": "Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Cedarvale_Station_Platform.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Cedarvale Station Platform"
+  },
+  "Chaplin": {
+    "file": "chaplin.webp",
+    "credit": "Transportfan70",
+    "source": "https://commons.wikimedia.org/wiki/File:Chaplin_station_platform_stair_view.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Chaplin station platform"
+  },
+  "Chester": {
+    "file": "chester.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Chester_Subway_Station,_December_12_2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Chester station for Westbound to Kipling"
+  },
+  "Christie": {
+    "file": "christie.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Christie_TTC_Station,_May_3_2025_(02).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "Platform at Christie subway station for eastbound to Kennedy"
+  },
+  "College": {
+    "file": "college.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:College_Station_Platform,_February_13_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at College Station for northbound to Finch"
+  },
+  "Coxwell": {
+    "file": "coxwell.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Coxwell_TTC_Subway_Station,_April_3_2026_(03).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Coxwell station for westbound to Kipling"
+  },
+  "Davisville": {
+    "file": "davisville.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Davisville_Station_Platform_2023.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Davisville (TTC)"
+  },
+  "Don Mills": {
+    "file": "don-mills.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Don_Mills_Station_Concourse_2023.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Inside the Don Mills station concourse."
+  },
+  "Don Valley": {
+    "file": "don-valley.webp",
+    "credit": "AmaMcG",
+    "source": "https://commons.wikimedia.org/wiki/File:Don_Valley_Station.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "Don Valley Station Platform and concourse levels"
+  },
+  "Donlands": {
+    "file": "donlands.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Donlands_TTC_Subway_Station,_June_12_2025_(02).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "Platform at Donlands station for Eastbound to Kennedy"
+  },
+  "Downsview Park": {
+    "file": "downsview-park.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Downsview_Park_Station,_May_14_2025_(06).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "The main entrance at Downsview Park."
+  },
+  "Dufferin": {
+    "file": "dufferin.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Dufferin_Station_Exit_exterior_2023.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "A street entrance at Dufferin station."
+  },
+  "Duncanwoods": {
+    "file": "duncanwoods.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Duncanwoods_TTC_Station,_August_19_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Westbound platform at Duncanwoods station of Line 6 Finch West in Toronto, ON"
+  },
+  "Dundas West": {
+    "file": "dundas-west.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Dundas_West_Station_Exterior,_April_27_2026_(5-3_cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Entrance to Dundas West station"
+  },
+  "Dupont": {
+    "file": "dupont.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Dupont_TTC_Station_Platform,_May_9_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Dupont station"
+  },
+  "Eglinton": {
+    "file": "eglinton.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Eglinton_Station_Platform_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Eglinton Station Platform"
+  },
+  "Ellesmere": {
+    "file": "ellesmere.webp",
+    "credit": "Jason Zhang",
+    "source": "https://commons.wikimedia.org/wiki/File:Ellesmere_station,_Scarborough_RT.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "caption": "Ellesmere station on the Line 3 Scarborough RT."
+  },
+  "Fairbank": {
+    "file": "fairbank.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Fairbank_Station_Platform,_February_8_2026_(02).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platforms at Fairbank station"
+  },
+  "Finch": {
+    "file": "finch.webp",
+    "credit": "Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Finch_Station_Platform,_November_2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Finch Station Platform, November 2021"
+  },
+  "Finch West": {
+    "file": "finch-west.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Finch_West_Station_Platform_2024.JPG",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "The subway platform at Finch West."
+  },
+  "Forest Hill": {
+    "file": "forest-hill.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Forest_Hill_Station_Platform,_February_8_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platforms at Forest Hill station"
+  },
+  "Glencairn": {
+    "file": "glencairn.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Glencairn_TTC_Subway_Station,_August_7_2025_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Glencairn station for Northbound to Vaughan"
+  },
+  "Golden Mile": {
+    "file": "golden-mile.webp",
+    "credit": "BrackishStowaway",
+    "source": "https://commons.wikimedia.org/wiki/File:Bombardier_(Alstom)_Flexity_Freedom_at_Golden_Mile_Station.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "Seen testing during RSD session."
+  },
+  "Greenwood": {
+    "file": "greenwood.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Greenwood_TTC_Subway_Station,_April_3_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Greenwood station for westbound to Kipling"
+  },
+  "Hakimi Lebovic": {
+    "file": "hakimi-lebovic.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Hakimi_Lebovic_TTC_LRT_Station_Westbound_Platform,_April_18_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "The westbound platform at Hakimi Lebovic station on Line 5 Eglinton"
+  },
+  "High Park": {
+    "file": "high-park.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:High_Park_TTC_Station_Platform,_April_30_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at High Park station for Eastbound to Kennedy"
+  },
+  "Highway 407": {
+    "file": "highway-407.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:TTC_Highway_407_Station_Platform_1.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "TTC Highway 407 Station Platform"
+  },
+  "Humber College": {
+    "file": "humber-college.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Humber_College_Station_Platform,_August_19_2026_(02).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Humber College Station, western terminus of Line 6 Finch West"
+  },
+  "Ionview": {
+    "file": "ionview.webp",
+    "credit": "42-BRT",
+    "source": "https://commons.wikimedia.org/wiki/File:Ionview_station_on_TTC_Line_5_Eglinton,_shelter_on_surface_median_platform_in_snow_on_opening_day.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Shelter on the platform of the at-grade Ionview station on the Toronto subway network, on the day of its opening, February 8, 2026."
+  },
+  "Islington": {
+    "file": "islington.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Islington_TTC_Subway_Station,_March_6_2026_(02).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Islington station for westbound to Kipling"
+  },
+  "Jane": {
+    "file": "jane.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Jane_Station_Platform_2025.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Jane Station"
+  },
+  "Jane and Finch": {
+    "file": "jane-and-finch.webp",
+    "credit": "Transportfan70",
+    "source": "https://commons.wikimedia.org/wiki/File:Jane_and_Finch_stop_Line_6.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "Eastbound Alstom Citadis Spirit LRV #6501 arrives at the Jane and Finch stop on Line 6 Finch West in Toronto"
+  },
+  "Keele": {
+    "file": "keele.webp",
+    "credit": "Transportfan70",
+    "source": "https://commons.wikimedia.org/wiki/File:Keele_station_platform_2026.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "TTC Keele station platform in 2026"
+  },
+  "Keelesdale": {
+    "file": "keelesdale.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Keelesdale_Station_Platform,_February_13_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platforms at Keelesdale station"
+  },
+  "Kennedy": {
+    "file": "kennedy.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Kennedy_TTC_and_Go_Station_aerial_view_2023.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Aerial view of Kennedy TTC and Go Station"
+  },
+  "Kennedy (former Line 3 platforms)": {
+    "file": "kennedy-former-line-3-platforms.webp",
+    "credit": "Geo Swan",
+    "source": "https://commons.wikimedia.org/wiki/File:Scarborough_RT_at_Kennedy_Station_(2022-10-21).jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "A TTC Scarborough Rapid Transit train pulling into Kennedy Station."
+  },
+  "King": {
+    "file": "king.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:King_TTC_Subway_Station,_January_6_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "TTC subway platform at King station for Northbound to Finch"
+  },
+  "Kipling": {
+    "file": "kipling.webp",
+    "credit": "Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Kipling_Station_Platform,_November_2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Kipling Station Platform, November 2021"
+  },
+  "Laird": {
+    "file": "laird.webp",
+    "credit": "Transportfan70",
+    "source": "https://commons.wikimedia.org/wiki/File:Laird_station_upper_level_view.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "Laird station platform"
+  },
+  "Lansdowne": {
+    "file": "lansdowne.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Lansdowne_Station_Platform,_April_27_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Lansdowne station for Westbound to Kipling"
+  },
+  "Lawrence": {
+    "file": "lawrence.webp",
+    "credit": "Timothy H.",
+    "source": "https://commons.wikimedia.org/wiki/File:Lawrence_Station_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Lawrence Station Platform"
+  },
+  "Lawrence East": {
+    "file": "lawrence-east.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Lawrence_East_Platform_2022.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Lawrence East (TTC)"
+  },
+  "Lawrence West": {
+    "file": "lawrence-west.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Lawrence_West_TTC_Station_Platform,_May_9_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Lawrence West station"
+  },
+  "Leaside": {
+    "file": "leaside.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Leaside_Station_Platform,_April_11_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platforms at Leaside station on Line 5"
+  },
+  "Leslie": {
+    "file": "leslie.webp",
+    "credit": "Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Leslie_Station_Platform_2,_November_2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Leslie Station Platform, November 2021"
+  },
+  "Main Street": {
+    "file": "main-street.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Street_TTC_Subway_Station,_June_24_2025_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "TTC Main Street Station, which serves Subways, Streetcars and Buses."
+  },
+  "Martin Grove": {
+    "file": "martin-grove.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Martin_Grove_TTC_Station,_August_19_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Westbound platform at Martin Grove station of Line 6 Finch West in Toronto, ON"
+  },
+  "McCowan": {
+    "file": "mccowan.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:McCowan_station_Platform_2022.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "The former Line 3 platform at McCowan."
+  },
+  "Midland": {
+    "file": "midland.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Midland_Station_Platform_2022.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Midland Station Platform"
+  },
+  "Milvan Rumike": {
+    "file": "milvan-rumike.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Milvan_Rumike_TTC_Station,_August_19_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Westbound platform at Milvan Rumike station of Line 6 Finch West in Toronto, ON"
+  },
+  "Mount Dennis": {
+    "file": "mount-dennis.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Dennis_Station_Building,_November_16_2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "The former Kodak Building no 9 was preserved and renovated by Metrolinx and is now used as part of Mount Dennis station"
+  },
+  "Mount Olive": {
+    "file": "mount-olive.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Olive_TTC_Station,_August_19_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Eastbound platform at Mount Olive station of Line 6 Finch West in Toronto, ON"
+  },
+  "Mount Pleasant": {
+    "file": "mount-pleasant.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Pleasant_Station_Platform,_February_8_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platforms at Mount Pleasant station"
+  },
+  "Museum": {
+    "file": "museum.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_Platform_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Museum Station Platform showing new signage"
+  },
+  "Norfinch Oakdale": {
+    "file": "norfinch-oakdale.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Norfinch_Oakdale_TTC_Station,_August_19_2026_(02).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Westbound platform at Norfinch Oakdale station of Line 6 Finch West in Toronto, ON"
+  },
+  "North York Centre": {
+    "file": "north-york-centre.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:North_York_Centre_TTC_Subway_station_(2025-02-08)_01.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "TTC subway platform at North York Centre for Northbound to Finch"
+  },
+  "O'Connor": {
+    "file": "o-connor.webp",
+    "credit": "TheTrolleyPole",
+    "source": "https://commons.wikimedia.org/wiki/File:O%27Connor_stop_-_Laying_rails_at_Eglinton_Square.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "By April 7, 2019, construction crews have started to lay rails on the east side of the O'Connor stop at Eglinton Square."
+  },
+  "Oakwood": {
+    "file": "oakwood.webp",
+    "credit": "42-BRT",
+    "source": "https://commons.wikimedia.org/wiki/File:Oakwood_station_on_TTC_Line_5_Eglinton,_underground_platform,_from_overhead.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform of the underground Oakwood station on TTC's Line 5 Eglinton, on the day of its opening, February 8, 2026."
+  },
+  "Old Mill": {
+    "file": "old-mill.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_Mill_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Old Mill Platform"
+  },
+  "Osgoode": {
+    "file": "osgoode.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Osgoode_TTC_Subway_Station,_September_27_2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Southbound platform at Osgoode subway station"
+  },
+  "Ossington": {
+    "file": "ossington.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Ossington_Subway_Station_Platform,_October_4_2025_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Ossington station for westbound to Kipling"
+  },
+  "Pape": {
+    "file": "pape.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Pape_TTC_Subway_Station,_June_24_2025_(01)_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Main entrance for Pape subway station on Pape Avenue"
+  },
+  "Pearldale": {
+    "file": "pearldale.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Line_6_Citadis_Spirit_LRT_at_Pearldale_Station,_December_7_2025_(03).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "An Alstom Citadis Spirit LRT train arriving at Pearldale station along Line 6 Finch West in Toronto, ON"
+  },
+  "Pharmacy": {
+    "file": "pharmacy.webp",
+    "credit": "BrackishStowaway",
+    "source": "https://commons.wikimedia.org/wiki/File:Bombardier_(Alstom)_Flexity_Freedom_at_Pharmacy_station.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "Seen testing during the RSD session again."
+  },
+  "Pioneer Village": {
+    "file": "pioneer-village.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Pioneer_Village_Platform_2024.JPG",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Pioneer Village station"
+  },
+  "Queen": {
+    "file": "queen.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Queen_TTC_Subway_station,_April_11_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Queen station for northbound to Finch"
+  },
+  "Queen’s Park": {
+    "file": "queen-s-park.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Queens_Park_Platform_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Queen's Park station platform"
+  },
+  "Rosedale": {
+    "file": "rosedale.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosedale_Platform_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Rosedale station platform"
+  },
+  "Royal York": {
+    "file": "royal-york.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal_York_Station_Platform_2023.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Royal York Station Platform"
+  },
+  "Runnymede": {
+    "file": "runnymede.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Runnymede_TTC_Subway_Station,_March_6_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Runnymede station for westbound to Kipling"
+  },
+  "Scarborough Centre (former rail platforms)": {
+    "file": "scarborough-centre.webp",
+    "credit": "Jason Zhang",
+    "source": "https://commons.wikimedia.org/wiki/File:Scarborough_Centre_RT_station_(2).jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "The Scarborough Centre RT station of the Line 3 Scarborough light rail line."
+  },
+  "Sentinel": {
+    "file": "sentinel.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Sentinel_TTC_Station,_August_19_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Westbound platform at Sentinel station of Line 6 Finch West in Toronto, ON"
+  },
+  "Sheppard West": {
+    "file": "sheppard-west.webp",
+    "credit": "Transportfan70",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheppard_West_platform_train.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "caption": "Sheppard West subway station platform"
+  },
+  "Sheppard-Yonge": {
+    "file": "sheppard-yonge.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheppard-Yonge_Station_Line1_Platform_2023.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Sheppard–Yonge station"
+  },
+  "Sherbourne": {
+    "file": "sherbourne.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:Sherbourne_Station_Platform_2024.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "Sherbourne Station Platform"
+  },
+  "Sloane": {
+    "file": "sloane.webp",
+    "credit": "Jortsmaster5000",
+    "source": "https://commons.wikimedia.org/wiki/File:Sloane_Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Sloane Station on the Eglinton line 5 LRT"
+  },
+  "Spadina": {
+    "file": "spadina.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Spadina_Yonge_Platform_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Spadina station platform"
+  },
+  "St Andrew": {
+    "file": "st-andrew.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Andrew_TTC_Subway_Station,_March_25_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at St Andrew southbound to Union"
+  },
+  "St Clair": {
+    "file": "st-clair.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Clair_TTC_Station_Platform,_May_22_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at St Clair station for northbound to Finch"
+  },
+  "St Clair West": {
+    "file": "st-clair-west.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Clair_West_TTC_Station_Platform,_May_9_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at St. Clair West station"
+  },
+  "St George": {
+    "file": "st-george.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:St._George_Subway_Station_Line_1_Platform,_December_13_2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Line 1 platform at St George station for southbound to Union"
+  },
+  "St Patrick": {
+    "file": "st-patrick.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Patrick_Platform_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "St. Patrick station platform"
+  },
+  "Summerhill": {
+    "file": "summerhill.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Summerhill_Platform_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Summerhill station platform"
+  },
+  "Sunnybrook Park": {
+    "file": "sunnybrook-park.webp",
+    "credit": "The Wikipeadian guy",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunnybrook_Park_Stop3.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Sunnybrook Stop"
+  },
+  "TMU": {
+    "file": "tmu.webp",
+    "credit": "Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:TMU_Station_Platform_01.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "New Signage, TMU station"
+  },
+  "Union": {
+    "file": "union.webp",
+    "credit": "Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Union_Station_TTC_November_2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "The TTC subway platform at Union in 2021."
+  },
+  "Vaughan Metropolitan Centre": {
+    "file": "vaughan-metropolitan-centre.webp",
+    "credit": "Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Vaughan_Metropolitan_Centre_Station,_November_2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Vaughn Metropolitan Centre Station, November 2021"
+  },
+  "Victoria Park": {
+    "file": "victoria-park.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Park_TTC_Station,_August_6_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Exterior of Victoria Park subway station on Line 2"
+  },
+  "Warden": {
+    "file": "warden.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Warden_TTC_Subway_Station,_March_6_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Subway platform at Warden station on Line 2"
+  },
+  "Wellesley": {
+    "file": "wellesley.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Wellesley_Station_Platform,_February_13_2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Line 1 platform at Wellesley station for northbound to Finch"
+  },
+  "Westmore": {
+    "file": "westmore.webp",
+    "credit": "Adam Moss",
+    "source": "https://commons.wikimedia.org/wiki/File:Westmore_stop,_Finch_West_LRT,_2023_-_53335970747.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "caption": "Westmore stop along Line 6 Finch West during construction in Toronto, ON"
+  },
+  "Wilson": {
+    "file": "wilson.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Wilson_platform_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Wilson station platform"
+  },
+  "Woodbine": {
+    "file": "woodbine.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:Woodbine_TTC_Subway_Station,_April_3_2026_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at Woodbine station for westbound to Kipling"
+  },
+  "Wynford": {
+    "file": "wynford.webp",
+    "credit": "Mitchazenia",
+    "source": "https://commons.wikimedia.org/wiki/File:Wynford_station_-_November_2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Wynford station of the Line 5 Eglinton in Toronto, Ontario ."
+  },
+  "York Mills": {
+    "file": "york-mills.webp",
+    "credit": "Dillan Payne",
+    "source": "https://commons.wikimedia.org/wiki/File:York_Mills_TTC_Subway_Station,_June_16_2025_(01).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Platform at York Mills station"
+  },
+  "York University": {
+    "file": "york-university.webp",
+    "credit": "Canmenwalker",
+    "source": "https://commons.wikimedia.org/wiki/File:York_University_TTC_Subway_Platform_2024.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "caption": "York University (TTC)"
+  },
+  "Yorkdale": {
+    "file": "yorkdale.webp",
+    "credit": "User:Hutima",
+    "source": "https://commons.wikimedia.org/wiki/File:Yorkdale_platform_03.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Yorkdale station platform"
+  }
+}
