@@ -10,7 +10,7 @@ From the repository root, run `python3 -m http.server 8080 --directory public` a
 
 ## Refresh the data
 
-Run `python3 scripts/compile_schedule.py` for TTC static GTFS, and `python3 scripts/update_history.py` for monthly Toronto delay reports. Install `gtfs-realtime-bindings==1.0.0` and run `python3 scripts/refresh_realtime.py` to regenerate the timestamped GTFS Realtime snapshots. The deployment definition in `deployment/pages.yml` refreshes snapshots before publishing when installed as a GitHub Actions workflow. See the rider guide for data provenance and credits.
+Run `python3 scripts/compile_schedule.py` for TTC static GTFS, and `python3 scripts/update_history.py` for monthly Toronto delay reports. Install `gtfs-realtime-bindings==1.0.0` and run `python3 scripts/refresh_realtime.py` to regenerate the timestamped GTFS Realtime snapshots. The Pages workflow refreshes the timetables and incident archive daily and the realtime snapshots twice an hour. Live surface vehicles and predictions load directly in the browser. See the rider guide for data provenance and credits.
 
 The browser interface uses bundled Leaflet and dockview. Their licences are included with the distribution.
 
