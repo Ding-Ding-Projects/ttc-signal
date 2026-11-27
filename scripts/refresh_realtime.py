@@ -1,7 +1,7 @@
 """Snapshot the TTC's official GTFS-RT protobuf feeds for static-host fallback."""
 import gzip
 import json
-import urllib.request
+import subprocess
 from pathlib import Path
 from google.transit import gtfs_realtime_pb2 as gtfs
 from google.protobuf.json_format import MessageToDict
@@ -9,13 +9,28 @@ from google.protobuf.json_format import MessageToDict
 OUT = Path(__file__).resolve().parents[1] / "public/data"
 
 
+def fetch_feed(name, path):
+    sources = [f"https://gtfsrt.ttc.ca/{path}?format=binary",
+               f"https://bustime.ttc.ca/gtfsrt/{name}"]
+    for url in sources:
+        try:
+            data = subprocess.check_output(["curl", "--fail", "--silent", "--show-error",
+                                            "--location", "--connect-timeout", "8",
+                                            "--max-time", "25", url])
+            feed = gtfs.FeedMessage.FromString(data)
+            if not feed.header.timestamp:
+                raise ValueError("Source omitted the feed timestamp")
+            return url, feed
+        except (subprocess.CalledProcessError, ValueError) as exc:
+            print(f"Could not read {url}: {exc}", flush=True)
+    raise RuntimeError(f"Both official TTC sources failed for {name}")
+
+
 def main():
-    for name, field in (("alerts", "alert"), ("trips", "trip_update"), ("vehicles", "vehicle")):
-        url = "https://bustime.ttc.ca/gtfsrt/" + name
-        with urllib.request.urlopen(url, timeout=45) as response:
-            feed = gtfs.FeedMessage.FromString(response.read())
-        if not feed.header.timestamp:
-            raise ValueError("Source omitted the feed timestamp")
+    feeds = (("alerts", "alert", "alerts/all"), ("trips", "trip_update", "trips/update"),
+             ("vehicles", "vehicle", "vehicles/position"))
+    for name, field, path in feeds:
+        url, feed = fetch_feed(name, path)
         items = [{**MessageToDict(getattr(entity, field), preserving_proto_field_name=True), "id": entity.id}
                  for entity in feed.entity if entity.HasField(field)]
         data = json.dumps({"source": url, "time": feed.header.timestamp * 1000, "entries": items},
