@@ -1,0 +1,50 @@
+name: Publish transit dashboard
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17,47 * * * *'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: transit-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Select Toronto service date
+        id: date
+        run: echo "today=$(TZ=America/Toronto date +%F)" >> "$GITHUB_OUTPUT"
+      - uses: actions/cache@v4
+        id: schedules
+        with:
+          path: |
+            public/data/network.json
+            public/data/schedule
+            public/data/shapes.json
+            public/data/history*.json
+          key: ttc-service-v1-${{ steps.date.outputs.today }}
+      - name: Refresh timetable and incident archive
+        if: steps.schedules.outputs.cache-hit != 'true'
+        run: |
+          python scripts/compile_schedule.py
+          python scripts/update_history.py
+      - name: Refresh realtime snapshots
+        run: |
+          python -m pip install gtfs-realtime-bindings==1.0.0
+          python scripts/refresh_realtime.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deploy
+        uses: actions/deploy-pages@v4

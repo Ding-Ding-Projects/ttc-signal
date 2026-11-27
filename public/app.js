@@ -1,3 +1,5 @@
+import { searchList } from "./search.js";
+import { nearbyStops } from "./nearby.js";
 import { createDockview, themeLight } from "./vendor/dockview/dockview.mjs";
 import { createTransitMap } from "./map.js";
 import {
@@ -167,6 +169,29 @@ function favorite(kind, id) {
   label();
   return b;
 }
+function shareLink(kind, id) {
+  const link = el("a", "tool", "Link to " + kind);
+  link.href = "#" + new URLSearchParams({ [kind]: id });
+  link.addEventListener("click", async (event) => {
+    event.preventDefault();
+    try {
+      await navigator.clipboard.writeText(link.href);
+      link.textContent = "Link copied";
+    } catch {
+      const input = field("Share link", "text");
+      input.value = link.href;
+      input.readOnly = true;
+      link.replaceWith(input);
+      input.select();
+    }
+  });
+  return link;
+}
+function openSharedDetail() {
+  const target = new URLSearchParams(location.hash.slice(1));
+  if (target.has("stop")) stopDetails(target.get("stop"));
+  else if (target.has("route")) routeDetails(target.get("route"));
+}
 function routeDetails(id) {
   id = String(id?.route_short_name ?? id);
   const r = routes.get(id);
@@ -179,6 +204,7 @@ function routeDetails(id) {
       badge(id),
       el("span", "muted", mode(r)),
       favorite("route", id),
+      shareLink("route", id),
       btn("Show on map", () => {
         filterRoute = id;
         $("dialog").close();
@@ -210,30 +236,6 @@ function routeRow(r) {
     routeDetails(r.route_short_name),
   );
 }
-function searchList(items, key, draw, placeholder) {
-  const q = field(placeholder),
-    body = el("div"),
-    more = btn("Show more", () => {
-      limit += 40;
-      paint();
-    });
-  let limit = 40;
-  function paint() {
-    const term = q.value.trim().toLowerCase(),
-      hits = items.filter((x) => key(x).toLowerCase().includes(term));
-    body.replaceChildren(
-      el("div", "resultcount", hits.length.toLocaleString() + " results"),
-      ...hits.slice(0, limit).map(draw),
-    );
-    if (hits.length > limit) body.append(more);
-  }
-  q.oninput = () => {
-    limit = 40;
-    paint();
-  };
-  paint();
-  return el("div", "results", q, body);
-}
 function stopDetails(s) {
   if (typeof s === "string") s = stops.get(s);
   if (!s) return;
@@ -245,6 +247,13 @@ function stopDetails(s) {
       "filters",
       el("span", "lineicon", "Stop " + (s.stop_code || s.stop_id)),
       favorite("stop", s.stop_id),
+      shareLink("stop", s.stop_id),
+      btn("Show on map", () => {
+        filterRoute = "";
+        $("dialog").close();
+        go("network");
+        map?.focusStop(s);
+      }),
     ),
     el(
       "p",
@@ -435,6 +444,12 @@ function notice(a) {
 }
 function renderAlerts(n) {
   if (!n) return;
+  const previous = n.querySelector(".search");
+  const query = previous?.value || "",
+    focused = previous === document.activeElement;
+  const mode = n.querySelector("select")?.value || "plain",
+    sensitive = n.querySelector("input[type=checkbox]")?.checked || false,
+    expanded = n.querySelector("details")?.open || false;
   const list = allAlerts();
   n.replaceChildren(
     el("span", "eyebrow", "SERVICE BULLETIN"),
@@ -455,6 +470,15 @@ function renderAlerts(n) {
       "Search alerts or route numbers",
     ),
   );
+  const search = n.querySelector(".search");
+  n.querySelector("select").value = mode;
+  n.querySelector("input[type=checkbox]").checked = sensitive;
+  n.querySelector("details").open = expanded;
+  if (query) {
+    search.value = query;
+    search.dispatchEvent(new Event("input"));
+  }
+  if (focused) search.focus({ preventScroll: true });
   if (!list.length)
     n.append(
       el(
@@ -549,6 +573,7 @@ function renderDirectory(n, arrivals = false) {
         ? "Choose a stop for live predictions, dated timetables and trip details."
         : "Explore TTC routes, stop locations and boarding accessibility.",
     ),
+    arrivals ? nearbyStops(net.stops, stopRow) : null,
     buttons,
     group,
   );
@@ -803,6 +828,8 @@ async function refresh() {
 $("refresh").onclick = refresh;
 metrics();
 go("network");
+openSharedDetail();
+addEventListener("hashchange", openSharedDetail);
 refresh();
 fetch("./data/shapes.json")
   .then((r) => r.json())
