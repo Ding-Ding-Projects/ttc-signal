@@ -1,0 +1,17 @@
+.transit-map {position:relative; isolation:isolate; height:100%; width:100%; min-height:160px; background:#e9eeea; font-family:inherit; color:#1c302e;}
+.transit-map .leaflet-control-container .leaflet-top {top:5px;}
+.transit-map .leaflet-control-attribution {max-width:100%; font:9px/1.45 system-ui,sans-serif; color:#455958; background:rgba(255,255,255,.87);}
+.transit-map .leaflet-control-attribution a {color:#344b48;}
+.signal-map-control {display:flex; flex-direction:column; border-radius:5px; overflow:hidden; background:#fff; color:#23332e; border:1px solid #cbd1cb; box-shadow:0 2px 7px #0d22251a;}
+.signal-map-control button {appearance:none; padding:0; display:grid; place-items:center; width:33px; height:33px; background:white; border:0; border-radius:0; color:inherit; cursor:pointer; min-height:0;}
+.signal-map-control button+button {border-top:1px solid #daddd7;}
+.signal-map-control button:hover {background:#f0f4ef;}
+.signal-map-control button:focus-visible {outline:2px solid #397a68; outline-offset:-3px;}
+.signal-map-control button:disabled {opacity:.4;}
+.signal-map-line-icon,.signal-vehicle-icon {display:flex;align-items:center;justify-content:center; background:none; border:0;}
+.signal-map-line-icon span {font:800 10px/15px system-ui,sans-serif; min-width:19px; padding:0 3px; border-radius:4px; background:#fff; color:#1f2829; border:2px solid var(--route-color); text-align:center; box-shadow:0 1px 2px #122c2e26;}
+.signal-vehicle-icon span {display:grid;place-items:center; position:relative; min-width:23px; height:18px; padding:0 2px; box-sizing:border-box; border:1.5px solid white; border-radius:5px; font:800 9px/1 system-ui,sans-serif; color:#fff; background:#263d46; box-shadow:0 1px 3px #172c384d;}
+.signal-vehicle-icon span:after {content:'';position:absolute;bottom:-4px;left:calc(50% - 2px);width:5px;height:5px;transform:rotate(45deg);background:#263d46;border-right:1px solid white;border-bottom:1px solid white;}
+.signal-map-popup {font:13px/1.6 system-ui,sans-serif;}
+.signal-map-notice {position:absolute;z-index:800;bottom:24px;left:10px;max-width:calc(100% - 32px);padding:7px 10px;background:#fff;color:#243331;border:1px solid #becdc6;border-radius:5px;font:12px/1.4 system-ui,sans-serif;}
+.signal-map-control button[aria-pressed="true"] {background:#dfeadc;color:#184e39;}

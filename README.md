@@ -1,0 +1,23 @@
+# Signal Toronto
+
+A dockable Toronto public transit dashboard with a vehicle map, service alerts, a searchable route and stop directory, arrival predictions, service-day timetables, trip stop sequences, saved routes and stops, and historical delay analysis.
+
+[Open the dashboard](https://ding-ding-projects.github.io/ttc-signal/) · [Rider guide](https://ding-ding-projects.github.io/ttc-signal/guide.html)
+
+## Run locally
+
+From the repository root, run `python3 -m http.server 8080 --directory public` and open http://localhost:8080. The site runs as static ES modules. Live surface observations need internet access. Scheduled service and delay records are served from the bundled dataset. The app labels the last reported update time. Real-time coverage varies by route and mode.
+
+## Refresh the data
+
+Run `python3 scripts/compile_schedule.py` for TTC static GTFS, and `python3 scripts/update_history.py` for monthly Toronto delay reports. Install `gtfs-realtime-bindings==1.0.0` and run `python3 scripts/refresh_realtime.py` to regenerate the timestamped GTFS Realtime snapshots. The Pages deployment workflow refreshes the snapshots before publishing. See the rider guide for data provenance and credits.
+
+The browser interface uses bundled Leaflet and dockview. Their licences are included with the distribution.
+
+## Dashboard views
+
+![Transit overview with real Toronto streets, TTC vehicle positions and the service desk](docs/dashboard.png)
+
+Use the journey planner for direct trips and same-stop connections. The feed explorer exposes reported occupancy, cancellations and stop-level trip updates. Travel times in the planner are scheduled. Vehicle predictions and historical incident minutes have separate views and timestamps.
+
+![Toronto delay archive with cause filters and incident records](docs/delay-archive.png)
