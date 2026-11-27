@@ -10,7 +10,7 @@ From the repository root, run `python3 -m http.server 8080 --directory public` a
 
 ## Refresh the data
 
-Run `python3 scripts/compile_schedule.py` for TTC static GTFS, and `python3 scripts/update_history.py` for monthly Toronto delay reports. Install `gtfs-realtime-bindings==1.0.0` and run `python3 scripts/refresh_realtime.py` to regenerate the timestamped GTFS Realtime snapshots. The Pages deployment workflow refreshes the snapshots before publishing. See the rider guide for data provenance and credits.
+Run `python3 scripts/compile_schedule.py` for TTC static GTFS, and `python3 scripts/update_history.py` for monthly Toronto delay reports. Install `gtfs-realtime-bindings==1.0.0` and run `python3 scripts/refresh_realtime.py` to regenerate the timestamped GTFS Realtime snapshots. The deployment definition in `deployment/pages.yml` refreshes snapshots before publishing when installed as a GitHub Actions workflow. See the rider guide for data provenance and credits.
 
 The browser interface uses bundled Leaflet and dockview. Their licences are included with the distribution.
 
@@ -21,3 +21,9 @@ The browser interface uses bundled Leaflet and dockview. Their licences are incl
 Use the journey planner for direct trips and same-stop connections. The feed explorer exposes reported occupancy, cancellations and stop-level trip updates. Travel times in the planner are scheduled. Vehicle predictions and historical incident minutes have separate views and timestamps.
 
 ![Toronto delay archive with cause filters and incident records](docs/delay-archive.png)
+
+## Portable edition
+
+The Windows x64 executable in Releases opens the dashboard in your browser and serves the included map, timetable and rider guide from a loopback address. Keep its console window open while using it. The bundled timetable has the service dates of the release. Live predictions still require an internet connection. Saved items persist on the usual port, 38471. When that port is busy, the launcher chooses a temporary port with separate browser storage.
+
+Build it from the repository root with `GOOS=windows GOARCH=amd64 go build -trimpath -o SignalToronto.exe portable.go`. A native build with `go build -o signal-toronto portable.go` uses the same embedded files.
