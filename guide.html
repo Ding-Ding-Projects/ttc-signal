@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Rider guide · Signal Toronto</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      article {
+        max-width: 760px;
+        margin: auto;
+        padding: 28px 20px 70px;
+      }
+      article h2 {
+        margin-top: 32px;
+      }
+      article a {
+        color: #296144;
+      }
+      article li {
+        margin: 8px;
+      }
+      header a {
+        color: white;
+        text-decoration: none;
+      }
+      @media print {
+        @page {
+          size: 110mm 180mm;
+          margin: 10mm;
+        }
+        header,
+        article > a:last-child {
+          display: none;
+        }
+        article {
+          padding: 0;
+        }
+        h1 {
+          font-size: 30px;
+        }
+        h2 {
+          break-after: avoid;
+        }
+        body {
+          font-size: 11pt;
+          background: white;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="./" class="brand"
+        ><img src="signal.svg" alt="" /><b>Signal<span>Toronto</span></b></a
+      >
+    </header>
+    <article>
+      <a href="./">← Transit overview</a>
+      <h1>Rider guide.</h1>
+      <p>
+        Use Signal Toronto to find a stop, track service and understand reported
+        delays. All service times use America/Toronto.
+      </p>
+      <ol>
+        <li><a href="#map">Track a vehicle</a></li>
+        <li><a href="#time">Read departures and trip times</a></li>
+        <li><a href="#alerts">Understand delays</a></li>
+        <li><a href="#planner">Plan a journey</a></li>
+        <li><a href="#feeds">Inspect real-time records</a></li>
+        <li><a href="#work">Personalize your workspace</a></li>
+        <li><a href="#sources">Data coverage and credits</a></li>
+      </ol>
+      <h2 id="map">Track a vehicle</h2>
+      <p>
+        Open Live network. The route menu narrows the map to a line. Select a
+        vehicle label to inspect its route and last report. Zoom in to see stops
+        and select one to check departures. Use the location control to center
+        the map on your position after granting browser permission. The network
+        map includes scheduled route geometry, so a drawn line alone does not
+        indicate a vehicle is running.
+      </p>
+      <h2 id="time">Read departures and trip times</h2>
+      <p>
+        In Arrivals, enter a stop name or TTC stop number. Open the stop to see
+        surface arrival predictions and the published timetable. Change the date
+        to include the correct weekday service and holiday exceptions. Select a
+        departure to see its stops in order. Times above 24:00 refer to trips
+        after midnight on the selected service day. Accessibility information
+        reflects the published boarding field, which can be unspecified.
+      </p>
+      <h2 id="alerts">Understand delays</h2>
+      <p>
+        Service alerts combines dated GTFS Realtime advisories with surface
+        messages. Check the snapshot time when planning a trip. A missing
+        prediction, position or message can mean the feed has incomplete
+        coverage. Delay history is a separate monthly archive. Choose a mode,
+        month, cause or route and inspect the reported delay minutes and gap.
+        The archive starts in January 2025.
+      </p>
+      <h2 id="planner">Plan a journey</h2>
+      <p>
+        Search for the exact boarding and destination stops. Select each
+        suggested stop, the service date and the earliest departure time.
+        Results are ordered by scheduled arrival and include direct rides and
+        one same-stop transfer with at least two minutes between trips. Walking
+        links and live delays are outside this calculation.
+      </p>
+      <h2 id="feeds">Inspect real-time records</h2>
+      <p>
+        Open Feed explorer to filter vehicle positions, occupancy reports, trip
+        updates or reported cancellations. Expand a record to see available
+        fields. Check the timestamp on each snapshot before using it for travel
+        decisions.
+      </p>
+      <h2 id="work">Personalize your workspace</h2>
+      <p>
+        Drag a dockview tab to move, split or group panels. Reset layout
+        restores the current view. Save a stop or route from its detail screen.
+        Saved items and layouts stay in the current browser. All map stops and
+        routes are also accessible through the searchable directory. Use Tab to
+        move between controls and Escape to close a detail screen.
+      </p>
+      <h2 id="sources">Data coverage and credits</h2>
+      <p>
+        Signal Toronto is an independent project. Data is supplied by the
+        Toronto Transit Commission and the City of Toronto. Check
+        <a href="https://www.ttc.ca/service-advisories"
+          >TTC service advisories</a
+        >
+        for official travel information.
+      </p>
+      <ul>
+        <li>
+          <a href="https://open.toronto.ca/dataset/ttc-routes-and-schedules/"
+            >TTC routes and schedules</a
+          >
+          supply stops, trips, routes, shapes, stop times, agency details,
+          calendars and date exceptions.
+        </li>
+        <li>
+          <a href="https://bustime.ttc.ca/gtfsrt/">TTC GTFS Realtime</a>
+          supplies advisories, trip updates and vehicle observations. The TTC
+          public surface feed supplies browser updates. Live observations depend
+          on agency coverage and network access.
+        </li>
+        <li>
+          <a href="https://open.toronto.ca/">Toronto Open Data</a> supplies bus,
+          streetcar and subway delay records and Toronto Centreline geography.
+          Contains information licensed under the
+          <a href="https://open.toronto.ca/open-data-licence/"
+            >Open Government Licence – Toronto</a
+          >.
+        </li>
+        <li>
+          Bundled streets, green spaces and waterbodies by the City of Toronto.
+          Optional detailed map tiles by
+          <a href="https://www.openstreetmap.org/copyright"
+            >OpenStreetMap contributors</a
+          >. The map also includes bundled street geometry.
+        </li>
+      </ul>
+      <a href="guide.pdf">Download phone-size PDF guide</a>
+    </article>
+  </body>
+</html>

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#112d25" />
+    <meta
+      name="description"
+      content="Track Toronto transit vehicles, check service alerts and explore TTC schedules."
+    />
+    <title>Signal Toronto · Transit dashboard</title>
+    <link rel="icon" href="signal.svg" />
+    <link rel="stylesheet" href="vendor/dockview/dockview.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to workspace</a>
+    <header>
+      <div class="brand">
+        <img src="signal.svg" alt="" /><b>Signal<span>Toronto</span></b>
+      </div>
+      <div class="headright">
+        <span class="agency">TORONTO TRANSIT COMMISSION</span><i></i
+        ><time id="clock">Toronto time</time>
+      </div>
+    </header>
+    <main id="main">
+      <div class="mast">
+        <div>
+          <div class="kicker">
+            <span class="bars"></span> OPERATIONS DASHBOARD
+          </div>
+          <h1>Transit overview<span>.</span></h1>
+          <p>Toronto’s transit network, in real time.</p>
+        </div>
+        <button id="refresh" class="refresh"></button>
+      </div>
+      <div class="metrics" id="metrics"></div>
+      <nav id="nav" aria-label="Workspace views"></nav>
+      <section id="workspace" aria-label="Dockable transit workspace"></section>
+      <footer>
+        <span class="mini"><span class="bars"></span> SIGNAL TORONTO</span
+        ><span>Independent transit dashboard · Toronto local time</span
+        ><button id="guide">Rider guide</button
+        ><button id="reset">Reset layout</button>
+      </footer>
+    </main>
+    <dialog id="dialog">
+      <div class="dialog-top">
+        <span class="kicker">SIGNAL TORONTO</span
+        ><button aria-label="Close" id="close">×</button>
+      </div>
+      <div id="detail"></div>
+    </dialog>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
