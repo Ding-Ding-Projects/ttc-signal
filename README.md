@@ -33,3 +33,7 @@ Build it from the repository root with `GOOS=windows GOARCH=amd64 go build -trim
 [Browse current and former stations](https://ding-ding-projects.github.io/ttc-signal/stations/). Every location has a static page with cited history. Operating stations include links to adjacent stations and platform departures. The catalogue follows the five operating rapid-transit lines, including surface light-rail stops; interchanges share one history. Former station and platform records are labeled separately.
 
 Historical research and image credits are stored in `scripts/station-data/`. After updating the records or the schedule, run `python3 scripts/build_station_atlas.py`. The builder reconciles the records with complete scheduled trips and reports missing stations or transfer lines. Generate the phone-size PDF with `python3 scripts/build_station_pdf.py` (requires ReportLab).
+
+![Station atlas with station, line and service filters](docs/station-atlas.webp)
+
+The [Bloor-Yonge mobile view](docs/bloor-yonge-mobile.webp) shows the shared interchange history. Both images were captured from the published atlas.
